@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewStart Resource Finder</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <p class="brand">NewStart</p>
+        <h1>Support for your first steps in Toronto</h1>
+        <p>Find community services based on your language, needs, and area.</p>
+    </header>
+
+    <main>
+        <p class="step-label">PERSONALIZED RESOURCE FINDER</p>
+        <h2>What can we help you find today?</h2>
+        <p class="notice">This is an information finder, not immigration or legal advice. Confirm current eligibility
+            and availability with each organization.</p>
+
+        <section id="questionFlow" class="question-flow">
+            <section id="languageStep" class="question-bubble" data-step="1">
+                <p class="progress">Step 1 of 4</p>
+                <h2>Choose your preferred language</h2>
+                <p>We will prioritize services that may support you in that language.</p>
+
+                <label for="language">Language</label>
+                <select id="language">
+                    <option value="English">English</option>
+                    <option value="French">French</option>
+                    <option value="Arabic">Arabic</option>
+                    <option value="All">Any language</option>
+                </select>
+
+                <button id="continueButton">Continue</button>
+            </section>
+
+            <section id="categoryStep" class="question-bubble" data-step="2" hidden>
+                <p class="progress">Step 2 of 4</p>
+                <label for="category">What are you looking for?</label>
+                <select id="category">
+                    <option value="All">Any newcomer support</option>
+                    <option value="Employment">Jobs and career support</option>
+                    <option value="Language">Language classes</option>
+                    <option value="Housing">Housing information</option>
+                    <option value="Healthcare">Healthcare information</option>
+                    <option value="Settlement">Settlement and community support</option>
+                    <option value="DriversLicence">Ontario driver's licence and photo ID</option>
+                    <option value="Taxes">Taxes and tax-return information</option>
+                    <option value="SocialInsuranceNumber">Social Insurance Number (SIN)</option>
+                </select>
+                <aside id="categoryGuide" class="category-guide" aria-live="polite"></aside>
+                <button id="categoryNextButton">Next question</button>
+            </section>
+
+            <section id="locationStep" class="question-bubble" data-step="3" hidden>
+                <p class="progress">Step 3 of 4</p>
+                <label for="postalCode">Where do you live?</label>
+                <input id="postalCode" type="text" maxlength="7" placeholder="Example: M5V 2T6">
+                <p id="areaHint" class="area-hint">Enter a Toronto postal code to prioritize services in your area.</p>
+                <button id="locationNextButton">Next question</button>
+            </section>
+
+            <section id="ageStep" class="question-bubble" data-step="4" hidden>
+                <p class="progress">Step 4 of 4</p>
+                <label for="ageGroup">Which option fits you best?</label>
+                <select id="ageGroup">
+                    <option value="Youth">Youth or student (13-24)</option>
+                    <option value="Adult">Adult (25+)</option>
+                    <option value="Family">Family or parent</option>
+                </select>
+
+                <button id="searchButton">Find Resources</button>
+                <p class="source-note">Live data source: City of Toronto Open Data. Maps and directions will be added
+                    later.</p>
+            </section>
+        </section>
+
+        <section id="results" hidden>
+            <div class="results-heading">
+                <div>
+                    <p class="step-label">YOUR MATCHES</p>
+                    <h2>Available Resources</h2>
+                </div>
+                <button id="editButton" class="secondary-button">Edit selections</button>
+            </div>
+            <p id="summary"></p>
+            <aside id="helpNote" class="help-note"></aside>
+            <div id="resourceList"></div>
+        </section>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
