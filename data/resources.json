@@ -1,0 +1,1939 @@
+[
+  {
+    "id": "resource-1",
+    "sourceId": 1,
+    "name": "Toronto District School Board",
+    "category": "Employment",
+    "description": "Community Connections Mentorship Program (formerly HOST Program) -- supervised group activities for newcomer children, youth and young adults to help orient them to their new community and establish social and professional networks * assistance from peer and professional mentors, with focus on citizenship and civic engagement or skills and career development",
+    "eligibility": "TDSB newcomer students 6-24 years",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "3701-3741 Chesswood Dr",
+      "municipality": "North York",
+      "neighbourhood": "York University Heights, 27",
+      "postalCode": "M3J 2P6",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-395-2027",
+      "email": "WCNyouth@tdsb.on.ca",
+      "website": "http://communitysvcs.tdsb.on.ca"
+    },
+    "hours": "Mon-Fri 10 am-6 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall ; Designated parking",
+    "sourceUpdated": "2015-02-10T05:00:00"
+  },
+  {
+    "id": "resource-2",
+    "sourceId": 2,
+    "name": "North York Community House",
+    "category": "SocialInsuranceNumber",
+    "description": "Community Settlement Services -- one-on-one and group settlement services available to new permanent residents, convention refugees and refugee claimants * information and referral * orientation * formerly Immigrant Settlement and Adaptation Program English Language Support -- group conversation circles for newcomers Community Building -- working with residents on local issues to improve social networks and economic security Skills and Leadership -- training in leadership, group facilitation skills, peer leadership, and practicums in these areas, for adults * also Newcomer Youth Leadership Training * employment readiness -- orientation to Canadian workplace culture, employment counselling and assessment, small business development support * financial literacy workshops",
+    "eligibility": "Open to all",
+    "languages": [
+      "English",
+      "Arabic",
+      "Bengali",
+      "Chinese (Mandarin)",
+      "Dari",
+      "Farsi",
+      "Gujarati",
+      "Hindi",
+      "Italian",
+      "Marathi",
+      "Punjabi",
+      "Romanian",
+      "Russian",
+      "Somali",
+      "Spanish",
+      "Swahili",
+      "Tamil",
+      "Turkish",
+      "Urdu",
+      "West Indian dialects",
+      "not all languages available at all sites"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "540 Finch Ave W",
+      "municipality": "North York",
+      "neighbourhood": "Westminster-Branson, 35",
+      "postalCode": "M2R 1N7",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-636-2600",
+      "email": "nych@nych.ca",
+      "website": "http://www.nych.ca"
+    },
+    "hours": "Mon-Fri 9 am-5 pm * some programs held evenings and weekends",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Easy access to elevator ; Elevator with braille and voice/tone features - lowered buttons ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2014-12-22T05:00:00"
+  },
+  {
+    "id": "resource-3",
+    "sourceId": 3,
+    "name": "FCJ Refugee Centre",
+    "category": "SocialInsuranceNumber",
+    "description": "Legal information -- legal information on immigration and refugee issues, work permits, student permits, permanent resident applications, and other issues Shelter -- transitional housing for refugee claimant women and children * help with the refugee process, including legal, mental health, social services and other referrals * support and accompaniment to appointments Primary Health Care and Mental Health Clinic -- Saturdays, no Ontario Health Insurance required * settlement services * group for youth with precarious immigration status * holistic support services for victims/survivors of human trafficking * support groups and activities for women * Spanish interpretation and translation * English as a Second Language (ESL) classes Public education -- workshops for service providers and others on legal information needs of refugee claimants and non-status people and on immigration and refugee procedures * publications, public speakers",
+    "eligibility": "People with precarious migration status including refugee claimants, people without status, victims and survivors of human trafficking * shelter -- refugee women and children",
+    "languages": [
+      "English",
+      "French",
+      "Arabic",
+      "Portuguese",
+      "Spanish",
+      "access to interpreters for other languages"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "208 Oakwood Ave",
+      "municipality": "York",
+      "neighbourhood": "Oakwood Village, 107",
+      "postalCode": "M6E 2V4",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-469-9754",
+      "email": "info@fcjrefugeecentre.org",
+      "website": "http://www.fcjrefugeecentre.org"
+    },
+    "hours": "Mon-Fri 9:30 am-5 pm, Sat 10 am-2 pm",
+    "accessibility": "Wheelchair accessible building from Glenhurst entrance but not washrooms",
+    "sourceUpdated": "2016-02-24T05:00:00"
+  },
+  {
+    "id": "resource-4",
+    "sourceId": 4,
+    "name": "Arab Community Centre of Toronto",
+    "category": "SocialInsuranceNumber",
+    "description": "Settlement Services (formerly Immigrant Settlement and Adaptation Program) and Newcomer Settlement Program -- information and referral * housing and legal assistance * translation and interpretation * escort * counselling for students, individuals and families, liaising with Children's Aid Society * youth counselling and parenting sessions * orientation * settlement * refugee services -- referral and assistance with shelter, attendance at inquiry, employment, social, welfare and legal services * social and cultural activities * Ontario Community Participation -- volunteer placement program for Ontario Works recipients * also offered at 1 Resurrection Rd, 416-533-3292 ; 898 Markham Rd, 416-439-0767 Youth Services -- settlement program encouraging civic participation and integration through a focus on recreation, sport, and mentorship Employment Services -- Job Search Workshops (JSW) for new immigrants, Convention refugees or Live-in Caregivers, legally entitled to work in Canada * 3 or 4 day job search techniques workshops, including assessment with a job coach, individual action plan, labour market information, life skills and preemployment workshops with resume preparation, networking * extensive individual assistance Problem Gambling Program -- culturally appropriate prevention, education and treatment * outreach and public education to community groups * individual or group counselling for gamblers or those affected Domestic Violence Education Program -- counselling and referral for victims of family violence",
+    "eligibility": "Open to everyone",
+    "languages": [
+      "English",
+      "French",
+      "Arabic",
+      "Armenian",
+      "Assyrian",
+      "Dari",
+      "Dutch",
+      "Farsi",
+      "Hindi",
+      "Lithuanian",
+      "Pashto",
+      "Punjabi",
+      "Russian",
+      "Urdu"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "555 Burnhamthorpe Rd",
+      "municipality": "Etobicoke",
+      "neighbourhood": "Etobicoke West Mall, 13",
+      "postalCode": "M9C 2Y3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-231-7746",
+      "email": "Info@arabnewcomers.org",
+      "website": "http://www.arabcommunitycentre.com"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms * designated parking",
+    "sourceUpdated": "2015-09-11T04:00:00"
+  },
+  {
+    "id": "resource-5",
+    "sourceId": 5,
+    "name": "Centre for Immigrant and Community Services",
+    "category": "Taxes",
+    "description": "Immigrant Resource Centre -- multiservice centre with newcomer, job seeker and family services for all ages * services also offered at 2 locations in York Region 905-479-7926, 905-294-8868 Settlement and Employment Services (formerly Immigrant Settlement and Adaptation Program) -- information and referral * orientation, needs assessment * translation and interpretation * supportive counselling * bridging services * form filling * workshops and tours * seasonal income tax clinic * Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Professional Development and Small Business Resource Centre -- walk-in centre * resource materials for internationally trained professionals * business information * referrals Settlement and Integration Resource Centre -- drop-in centre providing settlement and integration information and resources * access to computers, Internet Settlement and Education Partnerships in Toronto (SEPT) (Settlement Workers in Schools) -- outreach program based in elementary and secondary schools from mid-August to end of June, and in libraries and summer school programs from July to mid-August * homework club * multi-languages service in North York area, connecting parents and students with the schools, parent interviews with schools, parenting group sessions, settlement information sessions * contact 416-292-7510 ext 301 Employment Resource Centre -- walk-in job search centre * access to computers, Internet, fax, photocopier, telephone * staff assistance available * resource materials * job boards * labour market information * resume clinics * mock interviews * workshops Early Years Program -- preschool education program for children and their parents * social and learning skills for preschool children * parenting education * parent-child interactive activities Children and Youth Programs -- after school program * summer camp * Saturday enrichment classes * leadership and life skills training * employment readiness Seniors and Family Programs -- form filling * supportive counselling * client intervention assistance * social, educational and recreational programs * support groups * health information workshops Volunteer Services -- training and development * placements * public education",
+    "eligibility": "Open to all",
+    "languages": [
+      "English",
+      "French",
+      "Arabic",
+      "Bengali",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Dari",
+      "Farsi",
+      "Filipino",
+      "Gujarati",
+      "Hebrew",
+      "Hindi",
+      "Korean",
+      "Kurdish",
+      "Malay",
+      "Punjabi",
+      "Russian",
+      "Sindhi",
+      "Spanish",
+      "Tamil",
+      "Ukrainian",
+      "Urdu",
+      "not all languages available"
+    ],
+    "tags": [
+      "taxes",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2330 Midland Ave",
+      "municipality": "Scarborough",
+      "neighbourhood": "Agincourt South-Malvern West, 128",
+      "postalCode": "M1S 5G5",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-292-7510",
+      "email": "info@cicscanada.com",
+      "website": "http://www.cicscanada.com"
+    },
+    "hours": "Mon-Fri 9 am-5 pm * some Saturday and Sunday programs",
+    "accessibility": "Designated parking at entrance ; Easy access to elevator - lowered buttons ; Non-powered swing doors ; Barrier free washrooms",
+    "sourceUpdated": "2015-02-09T05:00:00"
+  },
+  {
+    "id": "resource-6",
+    "sourceId": 6,
+    "name": "Catholic Crosscultural Services",
+    "category": "Language",
+    "description": "Participates in LINC (Language Instruction for Newcomers to Canada) in English, upon assessment by YMCA of Greater Toronto -- see separate entry * transportation and child minding available Family Literacy Program -- language and age appropriate family reading resources through a lending library * activities to encourage and reinforce family language learning Summer Enrichment Program -- for children 8-13 years * academic support and social interaction to support the settlement process Settlement Program, formerly Immigrant Settlement and Adaptation Program",
+    "eligibility": "LINC -- landed immigrants or Convention refugees",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "language",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1200 Markham Rd",
+      "municipality": "Scarborough",
+      "neighbourhood": "Woburn, 137",
+      "postalCode": "M1H 3C3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-289-6766",
+      "email": "Not available",
+      "website": "http://www.cathcrosscultural.org"
+    },
+    "hours": "Mon-Fri 8:30 am-5 pm",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-04-20T04:00:00"
+  },
+  {
+    "id": "resource-7",
+    "sourceId": 7,
+    "name": "Jewish Family & Child",
+    "category": "SocialInsuranceNumber",
+    "description": "Range of services for persons with social and emotional problems * all services confidential Children -- operates as a Children's Aid Society for the Jewish community * investigates allegations of child neglect and abuse * child protection services * adoption and foster home services and recruitment * adoption disclosure * counselling * big brothers and big sisters program * homework club Families -- individual, couple, family and group counselling * family life education and life skills programs * financial assistance combined with rehabilitation for persons on social assistance * assistance in finding employment and accommodation * support for families with special needs children Woman abuse -- counselling, emergency financial assistance, court accompaniment * groups for assaulted women, abusive men * Here to Help -- group program for children (and their mothers) exposed to woman abuse * community outreach * short term accommodation with kosher kitchen for one assaulted woman, with or without children Other services -- friendly visiting * support for single parents, bereaved parents, widows and widowers, immigrants * groups for women who have been or are in hurtful relationships * chaplaincy services for those in hospitals, long term care facilities, correctional institutions, psychiatric hospitals, centres for persons with developmental disabilities * co-op apartment for 4 males who are socially disabled or ex-psychiatric patients -- subsidies available * Multilingual Access Program -- escort for persons who are already clients * Settlement and Education Partnership in Toronto (SEPT) -- outreach program based in elementary and secondary schools from mid-August to end of June, and in libraries and social service agencies from July to mid-August * Jewish Hospice Program -- in-home palliative care program * social work services in schools * speakers",
+    "eligibility": "Not available",
+    "languages": [
+      "English",
+      "Hebrew",
+      "Russian",
+      "Yiddish"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "4600 Bathurst St",
+      "municipality": "North York",
+      "neighbourhood": "Westminster-Branson, 35",
+      "postalCode": "M2R 3V3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-638-7800",
+      "email": "info@jfandcs.com",
+      "website": "http://www.jfandcs.com"
+    },
+    "hours": "Office -- Mon-Thu 9 am-5 pm, Fri 9 am-4 pm * after hours -- answering service, calls returned within 1 hour",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Easy access to elevator - braille and lowered buttons ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2014-08-12T04:00:00"
+  },
+  {
+    "id": "resource-8",
+    "sourceId": 8,
+    "name": "West Neighbourhood House",
+    "category": "SocialInsuranceNumber",
+    "description": "Settlement services -- small ethnic-based information groups * information and referral * group settlement sessions * individual assistance with immigration, orientation and other settlement-related issues * employment support * computer and Internet access * workshops * resource centre Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Program for youth 13-24 years -- leadership training * entrepreneurship * homework club * one-to-one help with resume writing and job search skills * computer drop-in * mentorship * sports clubs and recreation",
+    "eligibility": "Permanent rsidents and refugee claimants including socially marginalized, homeless and non-status",
+    "languages": [
+      "English",
+      "Arabic",
+      "Chinese (Cantonese)",
+      "Dari",
+      "Farsi",
+      "Hungarian",
+      "Polish",
+      "Portuguese",
+      "Sinhala",
+      "Spanish",
+      "Tamil"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "248 Ossington Ave",
+      "municipality": "former Toronto",
+      "neighbourhood": "Trinity-Bellwoods, 81",
+      "postalCode": "M6J 3A2",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-536-1234 ext 401",
+      "email": "janitr@westnh.org",
+      "website": "http://www.westnh.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-09-01T04:00:00"
+  },
+  {
+    "id": "resource-9",
+    "sourceId": 9,
+    "name": "Toronto Catholic District School Board",
+    "category": "SocialInsuranceNumber",
+    "description": "Full academic program in a Roman Catholic environment * kindergarten through grade 12 * single gender and coeducational secondary schools * Catholic family life education * Adult Education * Advance Placement Program * alternative education programs * French as a second language and Immersion * International Baccalaureate Program * Specialist High Skills Major programming * Dual Credit * School Within a College * Ontario Youth Apprenticeship * special education programs for exceptional children * schools specializing in arts, technology and media * support services Adult Education -- adult upgrading centres * English as a Second Language (ESL) classes -- see website for locations * Language Instruction for Newcomers to Canada (LINC) in English, upon assessment by YMCA of Greater Toronto -- see separate entry * Enhanced Language Training (ELT) * citizenship and international language classes Support Services -- child care centres, after school programs, caregiver and child drop-ins and parenting centres at some schools -- call 416-222-8282 ext 2475 for information * nutrition programs, home instruction, social work, psychological and psychiatric services, guidance counselling, program for persons who are deaf or hard of hearing, reading, speech and language correction, community liaison, chaplaincy and peer ministry programs, interpreter services and transportation for persons with physical disabilities after school literacy clubs * Comprehensive Literacy -- remedial literacy instruction for children up to Grade 3 * Orientation Centre -- placement centre for new Canadian secondary school students, call 416-393-5500 for appointment * individual schools listed in the telephone directory under Toronto Catholic District School Board",
+    "eligibility": "Elementary level -- Roman Catholic children and children of Roman Catholic parents * secondary level open to all",
+    "languages": [
+      "English",
+      "French - (school programs)",
+      "Interpreters in other languages available upon request"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "80 Sheppard Ave E",
+      "municipality": "North York",
+      "neighbourhood": "Willowdale East, 51",
+      "postalCode": "M2N 6E8",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-222-8282 ext 5314 ; Admissions 416-222-8282 ext 5320 ; Adult Education Programs 416-222-8282 ext 5348",
+      "email": "webmaster@tcdsb.org",
+      "website": "http://www.tcdsb.org"
+    },
+    "hours": "Mon-Fri 8:30 am-4:45 pm * after hours -- answering service, emergency calls responded to immediately",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms * accessible elevators * designated and street parking close to entrance",
+    "sourceUpdated": "2015-07-08T04:00:00"
+  },
+  {
+    "id": "resource-10",
+    "sourceId": 10,
+    "name": "YMCA of Greater Toronto",
+    "category": "SocialInsuranceNumber",
+    "description": "Settlement information and referral * settlement information sessions in various locations * guest speaker series * Newcomer Network * access to computers, fax, photocopiers, and phone * settlement resource library * information on immigration and citizenship, employment and job searching, access to trades and professions, credential assessment, education and training, language classes, health and housing, community, recreation and consumer resources, human rights, legal and social services, child, youth and family resources, food, shelter, and clothing Library Settlement Partnerships -- outreach program at Centennial Library * settlement information and referral * Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Services -- youth-focused settlement information and referral * Newcomer Youth Leadership Development -- youth learn about their community, gain volunteer hours, build leadership, language, communication and social skills * workshops and activities for parents and youth",
+    "eligibility": "Newcomers (landed immigrants and convention refugees) * Newcomer Youth Services -- landed immigrants and convention refugees 13-24 years",
+    "languages": [
+      "English",
+      "American Sign Language (ASL)",
+      "Arabic",
+      "Armenian",
+      "Assyrian",
+      "Bulgarian",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Dari",
+      "Farsi",
+      "Hebrew",
+      "Hindi",
+      "Korean",
+      "Russian",
+      "Sinhala",
+      "Spanish",
+      "Ukrainian"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "4580 Dufferin St",
+      "municipality": "North York",
+      "neighbourhood": "York University Heights, 27",
+      "postalCode": "M3H 5Y2",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-630-0330 ext 185",
+      "email": "Not available",
+      "website": "http://www.ymcagta.org/immigrantservices"
+    },
+    "hours": "Mon 9 am-7 pm, Tue-Thu 9 am-5 pm, Fri 9 am-1 pm, Sat 10 am-2 pm (Saturdays April to September only)",
+    "accessibility": "Easy access to elevator ; Wheelchair accessible washroom, assistance needed with door",
+    "sourceUpdated": "2016-01-06T05:00:00"
+  },
+  {
+    "id": "resource-11",
+    "sourceId": 11,
+    "name": "YMCA of Greater Toronto",
+    "category": "SocialInsuranceNumber",
+    "description": "Settlement information and referral * settlement information sessions in various locations * guest speaker series * Newcomer Network * access to computers, fax, photocopiers, and phone * settlement resource library * information on topics such as immigration and citizenship, employment and job searching, access to trades and professions, credential assessment, education and training, language classes, health and housing, community, recreation and consumer resources, human rights, legal and social services, child, youth and family resources, food, shelter, and clothing Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Services -- youth-focused settlement information and referral * Newcomer Youth Leadership Development -- youth learn about their community, gain volunteer hours, build leadership, language, communication and social skills * workshops and activities for parents and youth",
+    "eligibility": "Newcomers (landed immigrants and convention refugees) * Newcomer Youth Services -- landed immigrants and convention refugees 13-24 years",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Fujian)",
+      "Chinese (Mandarin)",
+      "Hindi",
+      "Punjabi",
+      "Tamil"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "10 Milner Business Crt",
+      "municipality": "Scarborough",
+      "neighbourhood": "Malvern, 132",
+      "postalCode": "M1B 3C6",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-609-0218 ext 30042",
+      "email": "Not available",
+      "website": "http://www.ymcagta.org/immigrantservices"
+    },
+    "hours": "Mon 9 am-5 pm, Tue 9 am-7 pm, Wed-Thu 9 am-5 pm, Fri 9 am-1 pm",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms",
+    "sourceUpdated": "2016-01-06T05:00:00"
+  },
+  {
+    "id": "resource-12",
+    "sourceId": 12,
+    "name": "Access Alliance Multicultural Health and Community Services",
+    "category": "Employment",
+    "description": "Health and community services Health services -- primary health care services * assessment, medical treatment * prenatal and postnatal care * immunization * diabetes * illness and disease prevention * sexual health and health education * nutrition * individual, marital, family and mental health counselling * no Ontario Health Insurance required for primary care and most specialists * SHY Clinic , Sexually Healthy Youth -- for ages 13-24 years * pregnancy testing and counselling * STI (sexually transmitted infections) testing and free treatment * low cost birth control * non-judgemental, confidential Community services -- focus on newcomers, women, families with children birth-6 years * peer outreach and support * parenting and parent-child groups * prenatal nutrition and support * food skills groups * health education * lesbian, gay, bisexual, trans and queer (LGBTQ) services * expressive arts * environmental awareness * research and advocacy on newcomer, immigrant and refugee issues Youth services -- drop-in programs * settlement * out of school programs * Community Connections Mentorship Program (formerly HOST) -- group orientation activities for newly arrived immigrant and refugee youth * trained volunteer mentors * help in establishing social and professional networks * development of citizenship and civic engagement * skills and career development Settlement Program -- orientation * needs and eligibility assessments * information and referral * language and skills training * job search and employment counselling * networking * youth settlement * LGBTQ settlement * services in various locations Newcomer Resource Centre -- information and referral to community and government services * access to computers, Internet, photocopier, fax and telephone",
+    "eligibility": "Newcomer immigrants and refugees",
+    "languages": [
+      "English",
+      "interpreters available for other languages"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "3079 Danforth Ave",
+      "municipality": "Scarborough",
+      "neighbourhood": "Oakridge, 121",
+      "postalCode": "M1L 1A8",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-693-8677",
+      "email": "mail@accessalliance.ca",
+      "website": "http://www.accessalliance.ca"
+    },
+    "hours": "Mon-Tue, Thu 9 am-8 pm; Wed 1 pm-5 pm; Fri 9 am-5 pm",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms",
+    "sourceUpdated": "2014-06-12T04:00:00"
+  },
+  {
+    "id": "resource-13",
+    "sourceId": 13,
+    "name": "Rexdale Women's Centre",
+    "category": "Employment",
+    "description": "Support for women and families Short term supportive counselling * parenting and family supportive counselling * employment and career counselling * support groups for women from various cultures * resources and information for parents and families * information workshops on health related topics, assertiveness, employment, life skills, stress management and parenting Violence prevention and crisis intervention Crisis support and counselling for women and children who have experienced or are experiencing violence in the home * legal and medical referrals * accompaniment to legal, medical and social services resources * information, public and community education on wife abuse * support groups for women who are victims of spousal abuse Newcomer assistance and integration Immigrant/newcomer settlement support and counselling * information sessions for newcomers and community residents * information and referral * English language instruction for newcomers to Canada at various locations -- participates in LINC (Language Instruction for Newcomers to Canada) in English, upon assessment by YMCA of Greater Toronto -- see separate entry * English as a Second Language (ESL) preschool program * Family Drop In -- for parents and children of all ages * school readiness program -- see separate entry * Youth Program for ages 16-26 years -- leadership skills, English language skills, integration into the community Ethnocultural seniors program -- see separate entry Community development Participation on various coalitions, community networks and committees * volunteer opportunities",
+    "eligibility": "Open to all * focus on newcomer and refugee women",
+    "languages": [
+      "English",
+      "Arabic",
+      "Assyrian",
+      "Bosnian",
+      "Chinese (Mandarin)",
+      "Croatian",
+      "Dari",
+      "Farsi",
+      "Gujarati",
+      "Hindi",
+      "Pashto",
+      "Punjabi",
+      "Serbian",
+      "Somali",
+      "Spanish",
+      "Tamil",
+      "Twi",
+      "Urdu",
+      "West Indian dialects",
+      "French, Italian, Portuguese -- available upon request"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "925 Albion Rd",
+      "municipality": "Etobicoke",
+      "neighbourhood": "Thistletown-Beaumond Heights, 3",
+      "postalCode": "M9V 1A6",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-745-0062",
+      "email": "admin@rexdalewomen.org",
+      "website": "http://www.rexdalewomen.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm, also Wed 5 pm-8 pm; Sat 9 am-12 noon * evening appointments available upon request * Family Drop In -- call for schedule and location",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Elevator with braille and voice/tone features ; Wheelchair accessible washroom, assistance needed with door",
+    "sourceUpdated": "2015-12-21T05:00:00"
+  },
+  {
+    "id": "resource-14",
+    "sourceId": 14,
+    "name": "Riverdale Immigrant Women's Centre",
+    "category": "SocialInsuranceNumber",
+    "description": "Information and referral * counselling -- family, group, crisis and assaulted women * family violence education * advocacy * settlement services -- referrals to legal, housing, health, immigration and employment services * form filling * life skills * job search skills * community economic development Essential Pathways to Employment Program (EPE) -- 8 week program * in-depth skills analysis * action plan development * skills and workplace training * childminding and transportation assistance available through Toronto. Employment and Social Services -- see separate entry Violence Against Women/Youth Program -- individual counselling for crisis, abuse, assault and trauma * stress management, assertiveness training * escort to legal appointments * group and one-on-one counselling for youth experiencing any kind of violence including bullying, child abuse, harassment, girl-on-girl violence, date rape * space for immigrant and refugee youth of colour to explore their cultural identity and sense of belonging in Canada Volunteer and Student Placement Program -- job placements to build skills and gain experience * opportunities in social or settlement services, counselling support, employment help, office administration or reception, marketing and outreach Global Pantry catering service * Social Gardener Cafe * social enterprises",
+    "eligibility": "Adults 16 years and older * focus on immigrant women and their families * Essential Pathways to Employment Program -- all Ontario Works (OW) recipients, men and women",
+    "languages": [
+      "English",
+      "French - interpreter available",
+      "Arabic",
+      "Bengali",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Chinese (Taiwanese)",
+      "Farsi",
+      "Filipino",
+      "Gujarati",
+      "Hindi",
+      "Kachi",
+      "Marathi",
+      "Punjabi",
+      "Spanish",
+      "Swahili",
+      "Tamil",
+      "Tibetan",
+      "Urdu"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1326 Gerrard St E",
+      "municipality": "former Toronto",
+      "neighbourhood": "Greenwood-Coxwell, 65",
+      "postalCode": "M4L 1Z1",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-465-6021",
+      "email": "reception.riwc@gmail.com",
+      "website": "http://www.riwc.ca"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Wheelchair accessible building -- call for details",
+    "sourceUpdated": "2015-03-01T05:00:00"
+  },
+  {
+    "id": "resource-15",
+    "sourceId": 15,
+    "name": "Cross-Cultural Community Services Association",
+    "category": "Taxes",
+    "description": "Settlement Services (formerly Immigrant Settlement and Adaptation Program) Information and referral, orientation, counselling, translation and interpretation Education and Language Training Participates in LINC (Language Instruction for Newcomers to Canada) in English, upon assessment by YMCA of Greater Toronto, (childminding provided) -- see separate entry * heritage language classes for children to 15 years Community Services Youth programs * seniors support group * women's support group * Ontario Early Years parenting program * recreation activities * workshops and seminars * seasonal income tax clinic * volunteer training program Head office in Markham (905-948-1671), office in Mississauga (905-615-9500)",
+    "eligibility": "Focus on Chinese community including newcomers, refugees and citizens",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)"
+    ],
+    "tags": [
+      "taxes",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "310 Spadina Ave",
+      "municipality": "former Toronto",
+      "neighbourhood": "Kensington-Chinatown, 78",
+      "postalCode": "M5T 2E8",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-977-4026",
+      "email": "info@tccsa.org",
+      "website": "http://www.tccsa.on.ca"
+    },
+    "hours": "Mon-Fri 9 am-5 pm * Sat 9 am-1 pm by appointment only",
+    "accessibility": "Not Accessible",
+    "sourceUpdated": "2016-02-08T05:00:00"
+  },
+  {
+    "id": "resource-16",
+    "sourceId": 16,
+    "name": "Toronto District School Board",
+    "category": "Taxes",
+    "description": "Settlement Program (formerly Immigrant Settlement and Adaptation Program) -- orientation programs, language and skills training to help facilitate employment, and programs to welcome newcomers to community * may provide needs and eligibility assessments, pre and post-arrival information and referral, job search and employment counselling, assistance to establish social and professional networks to promote community engagement, and assistance to access a range of settlement services * individual tax filing assistance, seasonal * afterschool supports",
+    "eligibility": "Newcomers 13 years and older, Permanent residents, Landed immigrants and Convention refugees",
+    "languages": [
+      "English",
+      "Farsi",
+      "Filipino",
+      "Hungarian",
+      "Korean",
+      "Somali",
+      "Spanish"
+    ],
+    "tags": [
+      "taxes",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "6464 Yonge St",
+      "municipality": "North York",
+      "neighbourhood": "Newtonbrook West, 36",
+      "postalCode": "M2M 3X4",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-395-2045",
+      "email": "nscenterpoint@tdsb.on.ca",
+      "website": "http://communitysvcs.tdsb.on.ca"
+    },
+    "hours": "Mon-Fri 8:30 am-4:30 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-02-10T05:00:00"
+  },
+  {
+    "id": "resource-17",
+    "sourceId": 17,
+    "name": "YWCA Toronto",
+    "category": "SocialInsuranceNumber",
+    "description": "Individual and group counselling, life skills * information and referral -- health care, housing, education, transportation * career counselling, employment assistance * cash register, customer service and food handling training * Level C emergency first aid and CPR training * computer workshops * access to computers, Internet, fax * art program, field trips * TTC tokens and care for newcomer children provided * volunteer opportunities",
+    "eligibility": "Newcomer women and girls 13 years and older * permanent residents or convention refugees and temporary residents with work permit under the Live-in Caregiver program",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "222 Dixon Rd",
+      "municipality": "Etobicoke",
+      "neighbourhood": "Kingsview Village-The Westway, 6",
+      "postalCode": "M9P 3S5",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-964-3883",
+      "email": "fteixeira@ywcatoronto.org",
+      "website": "http://www.ywcatoronto.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm * evening programs available * some Saturdays",
+    "accessibility": "Wheelchair accessible building including barrier free washrooms",
+    "sourceUpdated": "2014-05-07T04:00:00"
+  },
+  {
+    "id": "resource-18",
+    "sourceId": 18,
+    "name": "YWCA Toronto",
+    "category": "SocialInsuranceNumber",
+    "description": "Individual and group counselling * skills based training -- Retail, Workplace Hazardous Materials Information System (WHMIS), Food Handling * information and referral -- health care, housing, school, recreation, transportation, banking * career and skills assessment * job search workshops * access to computers, Internet, fax * events and field trips * TTC tokens may be available * volunteer opportunities may be available",
+    "eligibility": "Newcomer women and girls 13 years and older * permanent residents or convention refugees and temporary residents with work permit under the Live-in Caregiver program",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Hindi",
+      "Sinhala",
+      "Tibetan",
+      "Urdu"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "3090 Kingston Rd",
+      "municipality": "Scarborough",
+      "neighbourhood": "Cliffcrest, 123",
+      "postalCode": "M1M 1P2",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-266-0303",
+      "email": "Not available",
+      "website": "http://www.ywcatoronto.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm * evening programs available * group workshops held some Saturdays",
+    "accessibility": "Wheelchair accessible building including barrier free washrooms",
+    "sourceUpdated": "2015-05-06T04:00:00"
+  },
+  {
+    "id": "resource-19",
+    "sourceId": 19,
+    "name": "Toronto District School Board",
+    "category": "Taxes",
+    "description": "Settlement Program (formerly Immigrant Settlement and Adaptation Program) -- orientation programs, language and skills training to help facilitate employment, and programs to welcome newcomers to community * may provide needs and eligibility assessments, pre and post-arrival information and referral, job search and employment counselling, assistance to establish social and professional networks to promote community engagement, and assistance to access a range of settlement services * individual tax filing assistance, seasonal * afterschool supports * on site childminding",
+    "eligibility": "Newcomers 13 years and older, Permanent residents, Landed immigrants and Convention refugees",
+    "languages": [
+      "English",
+      "Hindi",
+      "Portuguese",
+      "Punjabi",
+      "Spanish",
+      "Tamil",
+      "Urdu"
+    ],
+    "tags": [
+      "taxes",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2870 Ellesmere Rd",
+      "municipality": "Scarborough",
+      "neighbourhood": "Morningside, 135",
+      "postalCode": "M1E 4B8",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-393-0285",
+      "email": "nsmorningside@tdsb.on.ca",
+      "website": "http://communitysvcs.tdsb.on.ca"
+    },
+    "hours": "Mon-Fri 10 am-6 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-08-12T04:00:00"
+  },
+  {
+    "id": "resource-20",
+    "sourceId": 20,
+    "name": "Youth Assisting Youth",
+    "category": "Employment",
+    "description": "Matches children and youth with volunteer mentors * parent support * monthly activities * workshops -- child abuse, multiculturalism, behaviour management, mentoring, bullying * literature in Arabic, Bengali, Chinese, Farsi, Korean, Polish, Russian, Spanish, Urdu Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development",
+    "eligibility": "Children and youth 6-15 years experiencing emotional, behavioural, social or cultural adjustment difficulties, including newcomer children in Canada less than 10 years * volunteers -- youth 16-29 years",
+    "languages": [
+      "English",
+      "Bengali",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Dutch",
+      "Hindi",
+      "Portuguese",
+      "Punjabi",
+      "Spanish",
+      "Urdu",
+      "interpretation for other languages may be arranged"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "5734 Yonge St",
+      "municipality": "North York",
+      "neighbourhood": "Newtonbrook East, 50",
+      "postalCode": "M2M 4E7",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-932-1919",
+      "email": "mail@yay.org",
+      "website": "http://www.yay.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Elevator with braille and voice/tone features ; Barrier-free washroom including door and stall ; Wheelchair accessible rear entrance ; Street parking close to entrance",
+    "sourceUpdated": "2015-05-05T04:00:00"
+  },
+  {
+    "id": "resource-21",
+    "sourceId": 21,
+    "name": "Youth Employment Services YES",
+    "category": "SocialInsuranceNumber",
+    "description": "Individual and group employment counselling, assessment, job postings, referral and follow up * employability improvement, integration into workforce * job search workshops, newcomer services, self-marketing, entrepreneurship Student services -- summer job service * year round services for students seeking part time jobs * workshops * volunteer and co-op placements YESAbility -- for postsecondary students with disabilities * employment assistance includes matching skills and qualifications with part time jobs and finding part time employment opportunities * resume and interview tips * realistic employment action plans * assistance in gaining work experience and marketable skills Summer Company -- entrepreneurship program for students aged 15-30 looking to start their own business during summer break * participants receive funding and support BizStart Entrepreneurship Program -- for youth who are not in school * 12-month paid business incubator program includes training and support",
+    "eligibility": "Unemployed and out of school youth 15-30 years",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "555 Richmond St W",
+      "municipality": "former Toronto",
+      "neighbourhood": "Waterfront Communities-The Island, 77",
+      "postalCode": "M5V 3B1",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-504-5516",
+      "email": "yes@yes.on.ca",
+      "website": "http://www.yes.on.ca"
+    },
+    "hours": "Mon, Tue, Thu 9 am-5 pm; Wed 9 am-6 pm; Fri 9 am-4:30 pm",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Easy access to elevator ; Elevator with braille and voice/tone features ; Wheelchair accessible washroom, assistance needed with door",
+    "sourceUpdated": "2014-05-07T04:00:00"
+  },
+  {
+    "id": "resource-22",
+    "sourceId": 22,
+    "name": "Access Alliance Multicultural Health and Community Services",
+    "category": "Employment",
+    "description": "Health and community services Health services -- primary health care services * assessment, medical treatment * prenatal and postnatal care * immunization * diabetes * illness and disease prevention * sexual health and health education * nutrition * individual, marital, family and mental health counselling * no Ontario Health Insurance required for primary care and most specialists Community services -- focus on newcomers, women, families with children birth-6 years * peer outreach and support * parenting and parent-child groups * prenatal nutrition and support * food skills groups * health education * lesbian, gay, bisexual, trans and queer (LGBTQ) services * expressive arts * research and advocacy on newcomer, immigrant and refugee issues Youth services -- drop-in programs * settlement * out of school programs * Community Connections Mentorship Program (formerly HOST) -- group orientation activities for newly arrived immigrant and refugee youth * trained volunteer mentors * help in establishing social and professional networks * development of citizenship and civic engagement * skills and career development Settlement Program -- orientation * needs and eligibility assessments * information and referral * language and skills training * job search and employment counselling * networking * youth settlement * LGBTQ settlement * services in various locations",
+    "eligibility": "Newcomer immigrants and refugees",
+    "languages": [
+      "English",
+      "interpreters available for other languages"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "761 Jane St",
+      "municipality": "York",
+      "neighbourhood": "Rockcliffe-Smythe, 111",
+      "postalCode": "M6N 4B4",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-760-8677",
+      "email": "mail@accessalliance.ca",
+      "website": "http://www.accessalliance.ca"
+    },
+    "hours": "Mon-Tue, Thu 9 am-8 pm; Wed 1 pm-5 pm; Fri 9 am-5 pm",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms",
+    "sourceUpdated": "2014-06-12T04:00:00"
+  },
+  {
+    "id": "resource-23",
+    "sourceId": 23,
+    "name": "Toronto District School Board",
+    "category": "Taxes",
+    "description": "Settlement Program (formerly Immigrant Settlement and Adaptation Program) -- orientation programs, language and skills training to help facilitate employment, and programs to welcome newcomers to community * may provide needs and eligibility assessments, pre and post-arrival information and referral, job search and employment counselling, assistance to establish social and professional networks to promote community engagement, and assistance to access a range of settlement services * individual tax filing assistance, seasonal * afterschool supports",
+    "eligibility": "Newcomers 13 years and older, Permanent residents, Landed immigrants, Convention refugees, Government Assisted refugees and Live-in caretakers",
+    "languages": [
+      "English",
+      "French",
+      "Arabic",
+      "Chinese (Mandarin)",
+      "Hindi",
+      "Tamil",
+      "Urdu"
+    ],
+    "tags": [
+      "taxes",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "31 Tapscott Rd",
+      "municipality": "Scarborough",
+      "neighbourhood": "Malvern, 132",
+      "postalCode": "M1B 4Y7",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-396-4631",
+      "email": "nsmalvern@tdsb.on.ca",
+      "website": "http://communitysvcs.tdsb.on.ca"
+    },
+    "hours": "Mon-Fri 10 am-6 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-02-10T05:00:00"
+  },
+  {
+    "id": "resource-24",
+    "sourceId": 24,
+    "name": "Jewish Family & Child",
+    "category": "SocialInsuranceNumber",
+    "description": "Range of services for persons with social and emotional problems * all services confidential Children -- operates as a Children's Aid Society for the Jewish community * investigates allegations of child neglect and abuse * child protection services * adoption and foster home services and recruitment * adoption disclosure * counselling * big brothers and big sisters program * homework club Families -- individual, couple, family and group counselling * family life education and life skills programs * financial assistance combined with rehabilitation for persons on social assistance * assistance in finding employment and accommodation * support for families with special needs children Woman abuse -- counselling, emergency financial assistance, court accompaniment * groups for assaulted women, abusive men * Here to Help -- group program for children (and their mothers) exposed to woman abuse * community outreach * short term accommodation with kosher kitchen for one assaulted woman, with or without children Other services -- friendly visiting * support for single parents, bereaved parents, widows and widowers, immigrants * groups for women who have been or are in hurtful relationships * chaplaincy services for those in hospitals, long term care facilities, correctional institutions, psychiatric hospitals, centres for persons with developmental disabilities * co-op apartment for 4 males who are socially disabled or expsychiatric patients -- subsidies available * Multilingual Access Program -- escort for persons who are already clients * Settlement and Education Partnership in Toronto (SEPT) -- outreach program based in elementary and secondary schools from mid-August to end of June, and in libraries and social service agencies from July to mid-August * Jewish Hospice Program -- in-home palliative care program * social work services in schools * speakers",
+    "eligibility": "Not available",
+    "languages": [
+      "English",
+      "Hebrew",
+      "Russian",
+      "Yiddish"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "35 Madison Ave",
+      "municipality": "former Toronto",
+      "neighbourhood": "University, 79",
+      "postalCode": "M5R 2S2",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-961-9344",
+      "email": "info@jfandcs.com",
+      "website": "http://www.jfandcs.com"
+    },
+    "hours": "Mon-Thu 9 am-5 pm, Fri 9 am-4 pm",
+    "accessibility": "Wheelchair accessible - call for details",
+    "sourceUpdated": "2014-08-12T04:00:00"
+  },
+  {
+    "id": "resource-25",
+    "sourceId": 25,
+    "name": "For Youth Initiative",
+    "category": "SocialInsuranceNumber",
+    "description": "Settlement Program -- orientation * needs and eligibility assessments * pre- and post-arrival information and referral on education, settlement, employment, social assistance, housing, recreation * assistance in accessing services * language and skills training * job search and employment counselling * assistance in establishing social and professional networks * problem solving, conflict resolution, cross cultural communication * workshops, seminars Community Connections Mentorship Program (formerly HOST Program) -- group orientation activities for newly arrived immigrants and refugees * trained volunteer mentors * help in establishing social and professional networks * development of citizenship and civic engagement * skills and career development Job Search Workshops (JSW) -- for new immigrants and convention refugees, legally entitled to work in Canada * job search techniques workshops, covering labour market information, access to trades and professions, resume preparation, networking * extensive individual assistance",
+    "eligibility": "Newcomer youth 13-24 years, including permanent residents, landed immigrants, convention refugees and government assisted refugees",
+    "languages": [
+      "English",
+      "Arabic",
+      "Filipino",
+      "Spanish"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1652 Keele St",
+      "municipality": "York",
+      "neighbourhood": "Keelesdale-Eglinton West, 110",
+      "postalCode": "M6M 3W3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-653-3311",
+      "email": "fyi@foryouth.ca",
+      "website": "http://www.foryouth.ca"
+    },
+    "hours": "Mon-Fri 10 am-6 pm * occasional evening hours",
+    "accessibility": "Barrier-free washroom including door and stall ; Wheelchair accessible main floor",
+    "sourceUpdated": "2015-05-07T04:00:00"
+  },
+  {
+    "id": "resource-26",
+    "sourceId": 26,
+    "name": "SEAS Centre",
+    "category": "SocialInsuranceNumber",
+    "description": "Support Enhance Access Service Centre Immigrants and newcomers -- supportive counselling * information and referral * assistance filling out forms including applications for social assistance, income security and affordable housing * escort and interpretation * free Internet access and training Family Services -- individual and family counselling * domestic violence crisis intervention Community development -- volunteer recruitment and training * outreach and networking * advocacy * cultural activities Youth Programs -- leadership training * newcomer adaptation * recreation Seniors Services -- social and recreation activities",
+    "eligibility": "Immigrants, refugees and their families",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Filipino",
+      "Vietnamese"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "365 Parliament St",
+      "municipality": "former Toronto",
+      "neighbourhood": "Regent Park, 72",
+      "postalCode": "M5A 2Z9",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-362-1375",
+      "email": "info@seascentre.org",
+      "website": "http://www.seascentre.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Not Accessible",
+    "sourceUpdated": "2015-02-24T05:00:00"
+  },
+  {
+    "id": "resource-27",
+    "sourceId": 27,
+    "name": "East Metro Youth Services",
+    "category": "Language",
+    "description": "Respect In Schools Everywhere (RISE) Program -- youth led school based violence prevention program for grades 7-12 * addresses bullying, cyber-bullying, dating violence and harassment * available to schools and community agencies * fee Say Word Journalism Program -- youth training in radio and video broadcasting, photojournalism and magazine production * leadership opportunities such as peer mentorship and advisory committee Studio 2 Multimedia Program -- multimedia, journalism and social skills for marginalized youth and youth living in priority neighbourhoods * emphasis on violence prevention and media literacy The Zone Youth Centre -- drop-in activities include violence prevention and newcomer services Also consultation and training for educators and other professionals serving youth, in developing and implementing violence prevention strategies * fee",
+    "eligibility": "Programs vary, call for details",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Dari",
+      "Farsi",
+      "will arrange for interpretation in other languages if necessary"
+    ],
+    "tags": [
+      "language",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1200 Markham Rd",
+      "municipality": "Scarborough",
+      "neighbourhood": "Woburn, 137",
+      "postalCode": "M1H 3C3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-438-3697",
+      "email": "emys@emys.on.ca",
+      "website": "http://www.emys.on.ca"
+    },
+    "hours": "Office -- Mon-Thu 9 am-8 pm, Fri 9 am-5 pm * program hours vary, call for details The Zone Youth Centre -- Tue, Thu-Fri 3 pm-5 pm",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-06-04T04:00:00"
+  },
+  {
+    "id": "resource-28",
+    "sourceId": 28,
+    "name": "Elspeth Heyworth Centre for Women",
+    "category": "Employment",
+    "description": "Newcomer settlement services and job search support services * freedom from violence projects * counselling services for families * group sessions and workshops at various locations * RivInt, www.rivint.ca , translation and interpretation -- fee Also recreational, cultural and educational services for seniors * youth summer program * offered at 2 locations in Vaughan, 905-747-1515",
+    "eligibility": "Newcomers, immigrant and refugee women and their families",
+    "languages": [
+      "English",
+      "Gujarati",
+      "Hindi",
+      "Punjabi",
+      "Russian",
+      "Urdu",
+      "interpreters available for other languages"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2350 Finch Ave W",
+      "municipality": "North York",
+      "neighbourhood": "Humber Summit, 21",
+      "postalCode": "M9M 2C7",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-663-2978",
+      "email": "info@ehcw.ca",
+      "website": "http://"
+    },
+    "hours": "Mon-Fri 9:30 am-5 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Dedicated accessible washroom with all features ; Street parking",
+    "sourceUpdated": "2015-09-15T04:00:00"
+  },
+  {
+    "id": "resource-29",
+    "sourceId": 29,
+    "name": "Family Service Toronto",
+    "category": "Employment",
+    "description": "Community Connections Mentorship Program (formerly HOST Program) -- group orientation activities * trained volunteer mentors * help in establishing social and professional networks * development of citizenship and civic engagement * skills and career development * supporting women and youth in the Afghan, Iranian, Somali and Tamil communities",
+    "eligibility": "Newly arrived immigrants and refugees",
+    "languages": [
+      "English",
+      "Dari",
+      "Farsi",
+      "Pashto",
+      "Somali",
+      "Tamil"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "747 Warden Ave",
+      "municipality": "Scarborough",
+      "neighbourhood": "Clairlea-Birchmount, 120",
+      "postalCode": "M1L 4A8",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-755-5565 ext 422",
+      "email": "Not available",
+      "website": "http://www.familyservicetoronto.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-11-05T05:00:00"
+  },
+  {
+    "id": "resource-30",
+    "sourceId": 30,
+    "name": "CultureLink Settlement and Community Services",
+    "category": "SocialInsuranceNumber",
+    "description": "Settlement services including orientation, counselling and support (formerly Immigrant Settlement and Adaptation Program) Integration into the Educational System Settlement Workers in Schools (SWIS) -- outreach program based in elementary and secondary schools from mid-August to end of June, and social service agencies from July to mid-August * individualized action plan, settlement information and referral, group activities, leadership education Employability and Social Integration Community Connections Mentorship Program (CCMP) -- 4-6 month one-to-one befriending program for newcomers based on gender, age and residential location * group activities for newly arrived immigrants and refugees to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Employment Assistance -- for newcomers and internationally trained professionals * personalized job search plan, labour market information, resume preparation, networking, interview preparation Library Settlement Partnership (LSP) -- newcomer outreach at the Mimico and Lillian H Smith branches of Toronto public library * workshops, one-to-one counselling, settlement referrals Newcomer Settlement Services (NSP) -- employment support services * one-to-one settlement counselling and referrals * form filling including applications for asylum * orientation sessions * culturally sensitive services for the Roma community Well-Being and Healthy Lifestyles Green Settlement programs Bike Host matches volunteer mentors with newcomers to encourage cycling * Fun and Safe Cycling to Schools * in partnership with Cycle Toronto Sankofa, Girls Taking Green Roots -- intergenerational activities for newcomer youth 15-29 years who identify as girls and interested in gardening, nutrition and cooking * part of Global Roots Project * snacks and TTC tokens available * Sankofa CultureLink Youth -- peer supported drop-in for LGBTQ newcomers 15-29 years * settlement services, community engagement, environmental stewardship, nutrition and health, self-defence * Sankofa Queer Arts Network -- for LGBTQ newcomer youth and allies, including settlement counselling and support, with activities focused on the arts and communications Wintegration Youth -- for newcomer youth attending high school, after school program * fitness, homework help, recreation * snacks included Newcomer Seniors Centre -- educational workshops, physical and mental exercises, recreation",
+    "eligibility": "New immigrants and refugees, including Roma community * Sankofa, Newcomer Youth Services -- youth 14-29 years * Community Connections Mentorship Program -- newcomers 19 years or older, requires immigration papers or Permanent Resident card",
+    "languages": [
+      "English",
+      "Afrikaans",
+      "Arabic",
+      "Bengali",
+      "Bhojpuri",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Czech",
+      "Farsi",
+      "Filipino",
+      "Hindi",
+      "Hungarian",
+      "Italian",
+      "Pashto",
+      "Polish",
+      "Portuguese",
+      "Punjabi",
+      "Russian",
+      "Sinhala",
+      "Slovak",
+      "Somali",
+      "Spanish",
+      "Tamil",
+      "Tibeta"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2340 Dundas St W",
+      "municipality": "former Toronto",
+      "neighbourhood": "High Park North, 88",
+      "postalCode": "M6P 4A9",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-588-6288",
+      "email": "reception@culturelink.ca",
+      "website": "http://www.culturelink.ca"
+    },
+    "hours": "Mon-Fri 9 am-5 pm * some evening programs, including Community Connections Mentorship Program orientation and training",
+    "accessibility": "Designated parking at entrance - underground parking ; Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-06-02T04:00:00"
+  },
+  {
+    "id": "resource-31",
+    "sourceId": 31,
+    "name": "North York Community House",
+    "category": "SocialInsuranceNumber",
+    "description": "Community Settlement Services -- one-on-one and group settlement services available to new permanent residents, convention refugees and refugee claimants * information and referral * orientation * formerly Immigrant Settlement and Adaptation Program Healthy Living -- school age children, women and seniors * workshops and discussion groups focus on access to healthy food and lifestyle, mental health, violence * physical activities in a fun environment Community Building -- working with residents on local issues to improve social networks and economic security Skills and Leadership -- training in leadership, group facilitation skills, peer leadership, and practicums in these areas, for adults * also Newcomer Youth Leadership Training * employment readiness -- orientation to Canadian workplace culture, employment counselling and assessment, small business development support * financial literacy workshops",
+    "eligibility": "Open to all",
+    "languages": [
+      "English",
+      "Arabic",
+      "Bengali",
+      "Chinese (Mandarin)",
+      "Dari",
+      "Farsi",
+      "Gujarati",
+      "Hindi",
+      "Italian",
+      "Marathi",
+      "Punjabi",
+      "Romanian",
+      "Russian",
+      "Somali",
+      "Spanish",
+      "Swahili",
+      "Tamil",
+      "Turkish",
+      "Urdu",
+      "West Indian dialects",
+      "not all languages available at all sites"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1541 Jane St",
+      "municipality": "North York",
+      "neighbourhood": "Brookhaven-Amesbury, 30",
+      "postalCode": "M9N 2R3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-645-7575",
+      "email": "nych@nych.ca",
+      "website": "http://www.nych.ca"
+    },
+    "hours": "Mon-Fri 9 am-5 pm * some programs held evenings and weekends",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-01-30T05:00:00"
+  },
+  {
+    "id": "resource-32",
+    "sourceId": 32,
+    "name": "East Metro Youth Services",
+    "category": "SocialInsuranceNumber",
+    "description": "Includes group workshops, mentorship opportunities, mental health education and support, homework help and educational supports, and employment skills development Welcoming Communities -- group orientation activities for newly arrived immigrants and refugees * trained volunteer mentors * help in establishing social and professional networks * development of citizenship and civic engagement * skills and career development Settlement Program -- orientation and counselling * needs and eligibility assessments * information and referral to community resources, service bridging * language and skills training * interpretation and translation * job search and employment counselling * assistance in establishing social and professional networks * assistance in accessing services",
+    "eligibility": "Youth 12-21 years and their families, who are permanent residents or Convention refugees",
+    "languages": [
+      "English",
+      "Balochi",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Dari",
+      "Farsi",
+      "Tamil",
+      "Urdu",
+      "Interpretation for other languages arranged if necessary"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1200 Markham Rd",
+      "municipality": "Scarborough",
+      "neighbourhood": "Woburn, 137",
+      "postalCode": "M1H 3C3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-438-3697 ext 239, 233, 257",
+      "email": "emys@emys.on.ca",
+      "website": "http://www.emys.on.ca"
+    },
+    "hours": "Office -- Mon-Fri 10 am-5 pm * program hours vary, call for details",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2016-01-12T05:00:00"
+  },
+  {
+    "id": "resource-33",
+    "sourceId": 33,
+    "name": "Parkdale Intercultural Association",
+    "category": "DriversLicence",
+    "description": "Settlement Program (formerly Immigrant Settlement and Adaptation Program) and Newcomer Settlement Program -- information and referral * translation and interpretation * assistance with government applications and form filling * citizenship classes and facilitation of ceremonies in partnership * drivers licence written test preparation classes * computer classes * participates in LINC (Language Instruction for Newcomers to Canada) in English, upon assessment by YMCA of Greater Toronto, childminding and TTC tokens available -- see separate entry Employment services * drop-in resource centre * job search training * resume preparation * workshops * access to computers, Internet, fax, photocopier Newcomer Youth Program -- social, educational and recreational services * information and outreach * employment assistance * peer tutoring * leadership development * in partnership with Parkdale Community Information Centre, 1303 Queen St W Educational and cultural activities * year round income tax clinic * Tibetan seniors group on Saturdays * anti-racism and access and equity programs * community events, festivals Services also offered at 1365 Queen St W, 416-536-1783, fax 416-532-2531 -- Saturday social and exercise program for Spanish or Vietnamese seniors",
+    "eligibility": "Open to all * LINC Program -- permanent residents/landed immigrants or Convention refugees",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Filipino",
+      "Hindi",
+      "Hungarian",
+      "Polish",
+      "Spanish",
+      "Tamil",
+      "Tibetan",
+      "Vietnamese"
+    ],
+    "tags": [
+      "driverslicence",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1257 Queen St W",
+      "municipality": "former Toronto",
+      "neighbourhood": "Roncesvalles, 86",
+      "postalCode": "M6K 1L5",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-536-4420",
+      "email": "pia@piaparkdale.com",
+      "website": "http://www.piaparkdale.com"
+    },
+    "hours": "Mon-Fri 9 am-5 pm, also Tue, Thu 5 pm-8:30 pm * some Saturday programs",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall ; Street parking close to entrance",
+    "sourceUpdated": "2015-09-11T04:00:00"
+  },
+  {
+    "id": "resource-34",
+    "sourceId": 34,
+    "name": "West Neighbourhood House",
+    "category": "SocialInsuranceNumber",
+    "description": "Family programs and Community Parents Outreach Program (CPOP) -- for young, single, low income or immigrant mothers and their families Women Abuse Program -- counselling and support for abused women and their children * assistance with transitional housing Newcomer youth program -- practice English skills * employment assistance * recreational activities including sports, music, arts * in partnership with other service providers",
+    "eligibility": "Newcomer families * Woman Abuse Program -- women living in the City of Toronto who have experienced or are experiencing domestic violence * newcomer youth program -- landed immigrants 15-29 years",
+    "languages": [
+      "English",
+      "Chinese (Mandarin)",
+      "Hungarian",
+      "Portuguese",
+      "Spanish",
+      "Tamil",
+      "Tibetan",
+      "Vietnamese"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "1497 Queen St W",
+      "municipality": "former Toronto",
+      "neighbourhood": "Roncesvalles, 86",
+      "postalCode": "M6R 1A3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-536-1234",
+      "email": "info@westnh.org",
+      "website": "http://www.westnh.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm, also Tue, Thu 5 pm-7 pm",
+    "accessibility": "Barrier-free washroom including door and stall ; Wheelchair accessible main entrance",
+    "sourceUpdated": "2015-12-03T05:00:00"
+  },
+  {
+    "id": "resource-35",
+    "sourceId": 35,
+    "name": "St Felix Centre",
+    "category": "SocialInsuranceNumber",
+    "description": "Community centre * information and referral * general social support Adult Programs Lunch program Monday-Friday 11:30 am-1 pm * community supper Monday-Thursday 5 pm-6 pm * clothing bank program Tuesday-Wednesday 11 am-1 pm * computer classes Monday-Friday 10 am-1 pm (by appointment) Transitional Housing For women * maximum stay 1 year * capacity 14 * residents help prepare food for communal meals and share in care of house * residents create and implement a transition plan to independent living Children's Programs After school program, math tutoring, ESL classes * Friday night youth drop-in 6:30 pm-9 pm * Peer Support Program call for details 24 hour drop-in from January 1 to February 29, 2016",
+    "eligibility": "Individuals and families facing poverty, homelessness or lack of opportunities and skills",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "25 Augusta Ave",
+      "municipality": "former Toronto",
+      "neighbourhood": "Kensington-Chinatown, 78",
+      "postalCode": "M5T 2K7",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-203-1624",
+      "email": "stfelixcentre@rogers.com",
+      "website": "http://www.stfelixcentre.ca"
+    },
+    "hours": "Office -- Mon-Fri 9 am-4:30 pm * call for program hours",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Easy access to elevator ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-07-21T04:00:00"
+  },
+  {
+    "id": "resource-36",
+    "sourceId": 36,
+    "name": "Scadding Court Community Centre",
+    "category": "Taxes",
+    "description": "Information and referral on settlement issues including social assistance, language instruction, housing, education, recreation, health, employment * form filling * liaison with social assistance offices * interpretation and translation * information and orientation workshops * income tax clinic Newcomer Youth Program -- for youth 13-16 years * recreational activities * leadership training * referral and counselling * leadership training * educational workshops",
+    "eligibility": "Newly arrived immigrants, Convention refugees and permanent residents",
+    "languages": [
+      "English",
+      "Burmese",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)"
+    ],
+    "tags": [
+      "taxes",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "707 Dundas St W",
+      "municipality": "former Toronto",
+      "neighbourhood": "Kensington-Chinatown, 78",
+      "postalCode": "M5T 2W6",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-392-0335",
+      "email": "Not available",
+      "website": "http://www.scaddingcourt.org"
+    },
+    "hours": "Mon-Fri 9 am-4 pm Summer closing -- facilities closed for 2 weeks annual maintenance and reopens the Tuesday after Labour Day * Winter closing -- yearly December 25 to January 1 inclusive",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-01-28T05:00:00"
+  },
+  {
+    "id": "resource-37",
+    "sourceId": 37,
+    "name": "Toronto Community and Culture Centre",
+    "category": "Employment",
+    "description": "Settlement services for newcomers * social services counselling * youth employment services -- sponsors internships, summer jobs, job skills workshops including resumes and interviewing skills * participates in CAP (Community Access Program) -- free Internet access * information and referral * seniors services -- educational programs, social activities, referral to government services, form filling * outreach and cultural activities * some programs and services provided off site Also, location in Richmond Hill, 160 East Beaver Ck, Unit 1",
+    "eligibility": "Focus on mainland Chinese community",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "222 Spadina Ave",
+      "municipality": "former Toronto",
+      "neighbourhood": "Kensington-Chinatown, 78",
+      "postalCode": "M5T 3B3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-971-7883 ; 416-971-8886",
+      "email": "info@tcccto.com",
+      "website": "http://www.tcccto.com"
+    },
+    "hours": "Mon-Fri 9 am-3:30 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Easy access to elevator ; Dedicated accessible washroom with all features ; Paid underground parking",
+    "sourceUpdated": "2015-10-16T04:00:00"
+  },
+  {
+    "id": "resource-38",
+    "sourceId": 38,
+    "name": "Canadian Centre for Women's Education and Development",
+    "category": "SocialInsuranceNumber",
+    "description": "Case management * counselling for abused women and children * court accompaniment * support for young women with addictions * drop-in for newcomers (youth, women, seniors) * educational workshops * family and individual counselling * form filling including applications for subsidized housing * information and referral * mentoring for young women * outreach including young women and women with disabilities * seniors activities * youth programs * volunteer opportunities",
+    "eligibility": "Low income women (including senior women), children and youth * focus on immigrant women and children",
+    "languages": [
+      "English",
+      "Arabic",
+      "Gujarati",
+      "Hindi",
+      "Punjabi",
+      "Tamil",
+      "Urdu"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2296 Eglinton Ave E",
+      "municipality": "Scarborough",
+      "neighbourhood": "Ionview, 125",
+      "postalCode": "M1K 2M2",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-285-6881",
+      "email": "ccfw@bellnet.ca",
+      "website": "http://"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall ; Elevator with lowered control panel ; Designated parking",
+    "sourceUpdated": "2015-01-19T05:00:00"
+  },
+  {
+    "id": "resource-39",
+    "sourceId": 39,
+    "name": "Centennial College",
+    "category": "Language",
+    "description": "Full time certificate program that helps students for whom English is a second or additional language to build their English language and study skills * free language placement assessment prior to program start to determine starting level: basic, intermediate or pre-college * access to free tutoring, conversation circles, counselling",
+    "eligibility": "Ontario Secondary School Diploma (OSSD) or equivalent, or 19 years or older with completion of beginner English level training * international students may also attend",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "language",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "75 Ashtonbee Rd",
+      "municipality": "Scarborough",
+      "neighbourhood": "Wexford-Maryvale, 119",
+      "postalCode": "M1L 4N4",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-289-5000 ext 7683",
+      "email": "eap@centennialcollege.ca",
+      "website": "http://www.centennialcollege.ca/advancement/"
+    },
+    "hours": "Mon-Fri 8:30 am-6:30 pm",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms",
+    "sourceUpdated": "2012-07-18T04:00:00"
+  },
+  {
+    "id": "resource-40",
+    "sourceId": 40,
+    "name": "La Passerelle IDE",
+    "category": "SocialInsuranceNumber",
+    "description": "Employment program -- luncheon meetings about employability * counselling and mentoring * information and referral Business and Business Plus programs -- entrepreneurship, business acumen and economic development * networking evenings Cultural skills program -- cultural skills training for francophone newcomers and francophone employers * supports for academic success for youth 15-25 years old Information for youth on French-language health services * culturally sensitive workshops on HIV/AIDS prevention * IKUEN community kitchen for young francophone immigrant women",
+    "eligibility": "Ages: 18 year(s) - 35 year(s) Francophone youth and young adults from all cultural origins",
+    "languages": [
+      "French"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2 Carlton St",
+      "municipality": "former Toronto",
+      "neighbourhood": "Church-Yonge Corridor, 75",
+      "postalCode": "M5B 1J3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-934-0588",
+      "email": "info@passerelle-ide.com",
+      "website": "http://www.passerelle-ide.com"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Designated parking at entrance - garage entrance from Wood St ; Wheelchair accessible automatic main entrance ; Elevator with braille and voice/tone features ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-11-20T05:00:00"
+  },
+  {
+    "id": "resource-41",
+    "sourceId": 41,
+    "name": "SEAS Centre",
+    "category": "Healthcare",
+    "description": "Support Enhance Access Service Centre Family Services -- domestic violence prevention and crisis intervention * men's mental health program * parenting groups * family life education Seniors Programs -- social and recreational activities Youth Programs -- children and youth recreation * leadership training * newcomer adaptation",
+    "eligibility": "Immigrants, refugees and their families",
+    "languages": [
+      "English",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Filipino",
+      "Vietnamese"
+    ],
+    "tags": [
+      "healthcare",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "3875-3931 Don Mills Rd",
+      "municipality": "North York",
+      "neighbourhood": "Hillcrest Village, 48",
+      "postalCode": "M2H 2S7",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-490-6491",
+      "email": "info@seascentre.org",
+      "website": "http://www.seascentre.org"
+    },
+    "hours": "Mon-Fri 9:30 am-5:30 pm",
+    "accessibility": "Wheelchair accessible building including main entrance but not washrooms",
+    "sourceUpdated": "2015-02-24T05:00:00"
+  },
+  {
+    "id": "resource-42",
+    "sourceId": 42,
+    "name": "World Education Services",
+    "category": "Employment",
+    "description": "Verification and evaluation of academic credentials earned outside Canada * international degree preview -- self directed web-based service Educational Credential Assessment (ECA) -- for applicants applying under Federal Skilled Worker Program (FSWP) for immigration * designated by Citizenship and Immigration Canada (CIC) World Education Profiles , www.wes.org/ca/wedb/ -- online database to assist in placing newcomer secondary students in appropriate grade levels * also online resources on international education",
+    "eligibility": "Internationally educated/trained persons applying for jobs, apprenticeship programs or licensure to regulated professions, or seeking admission to college or university * employers * World Education Profiles -- guidance counsellors, educators",
+    "languages": [
+      "English",
+      "French",
+      "other languages may be available"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2 Carlton St",
+      "municipality": "former Toronto",
+      "neighbourhood": "Church-Yonge Corridor, 75",
+      "postalCode": "M5B 1J3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-972-0070",
+      "email": "Not available",
+      "website": "http://www.wes.org/ca"
+    },
+    "hours": "Customer Service -- Mon-Fri 9 am-2 pm * no walk-in service available",
+    "accessibility": "Designated parking at entrance - garage entrance from Wood St ; Wheelchair accessible automatic main entrance ; Elevator with braille and voice/tone features ; Barrier-free washroom including door and stall",
+    "sourceUpdated": "2015-12-08T05:00:00"
+  },
+  {
+    "id": "resource-43",
+    "sourceId": 43,
+    "name": "Skills for Change",
+    "category": "SocialInsuranceNumber",
+    "description": "Mentoring for Change -- matches internationally trained professional newcomers with volunteer mentors Youth Entrepreneurship Hub -- for anyone 15-29 years, Women Entrepreneurship Hub -- 12 week programs with workspace, planning seminars, grant and loan information, business mentorship and coaching CareerSkills -- instructor-led and hands-on training in business, accounting and finance software applications * some classes held at other locations Also many employment preparation programs for those in specific professions (may include enhanced language training) including accountants, bookkeepers, clerical workers, electricians, engineers, mechanics, retail workers",
+    "eligibility": "All newcomers, immigrants and refugees -- varies according to program * special focus on foreign-trained professionals * all programs include English as a Second Language (ESL) training",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "791 St Clair Ave W",
+      "municipality": "former Toronto",
+      "neighbourhood": "Wychwood, 94",
+      "postalCode": "M6C 1B7",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-658-3101",
+      "email": "communications@skillsforchange.org",
+      "website": "http://www.skillsforchange.org"
+    },
+    "hours": "Mon 9 am-9:30 pm, Tue-Fri 9 am-5 pm, Sat 9 am-1 pm",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall ; Wheelchair accessible building on basement and first level * Street parking",
+    "sourceUpdated": "2015-12-10T05:00:00"
+  },
+  {
+    "id": "resource-44",
+    "sourceId": 44,
+    "name": "Sherbourne Health Centre",
+    "category": "SocialInsuranceNumber",
+    "description": "Community development * arts and recreational projects * support groups for newcomer and immigrant youth, Black youth and youth of colour, bisexual, transgender and genderqueer youth * Monday evening drop-in for homeless and street-involved youth * mentoring program * support and referrals to employment and training, settlement, health, housing * email list-serve",
+    "eligibility": "Lesbian, gay, bisexual, transsexual and transgender youth 16-29 years * also youth unsure of their sexual orientation",
+    "languages": [
+      "English",
+      "Arabic",
+      "interpreters can be arranged for other languages * American Sign Language (ASL) interpreters available for some events"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "333 Sherbourne St",
+      "municipality": "former Toronto",
+      "neighbourhood": "Moss Park, 73",
+      "postalCode": "M5A 2S5",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-324-5077",
+      "email": "soy@sherbourne.on.ca",
+      "website": "http://www.soytoronto.org"
+    },
+    "hours": "Office -- Mon-Thu 10 am-6 pm, Fri 10 am-5 pm * most support groups, activities and events are held evenings and weekends -- call for details",
+    "accessibility": "Wheelchair accessible -- call for details",
+    "sourceUpdated": "2014-02-06T05:00:00"
+  },
+  {
+    "id": "resource-45",
+    "sourceId": 45,
+    "name": "YouthLink",
+    "category": "Settlement",
+    "description": "Homework help and tutoring for students grades 7-12 * after school drop-in * young women's program * leadership training * newcomer drop-in * youth resiliency programs * volunteer opportunities * March Break and summer camp",
+    "eligibility": "Youth and young adults",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "settlement",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "3850 Finch Ave E",
+      "municipality": "Scarborough",
+      "neighbourhood": "L'Amoreaux, 117",
+      "postalCode": "M1T 3T6",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-502-9293",
+      "email": "admin@nwsyc.com",
+      "website": "http://www.nwsyc.com"
+    },
+    "hours": "Mon-Fri 10 am-6 pm",
+    "accessibility": "Wheelchair accessible main entrance ; Barrier free washrooms ; Designated parking",
+    "sourceUpdated": "2014-05-08T04:00:00"
+  },
+  {
+    "id": "resource-46",
+    "sourceId": 46,
+    "name": "YMCA of Greater Toronto",
+    "category": "SocialInsuranceNumber",
+    "description": "Settlement information and referral * settlement information sessions in various locations * guest speaker series * Newcomer Network * access to computers, fax, photocopiers, and phone * settlement resource library * information on topics such as immigration and citizenship, employment and job searching, access to trades and professions, credential assessment, education and training, language classes, health and housing, community, recreation and consumer resources, human rights, legal and social services, child, youth and family resources, food, shelter, and clothing Library Settlement Partnerships -- outreach program at Toronto Reference Library * settlement information and referral * Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Services -- youth-focused settlement information and referral * Newcomer Youth Leadership Development -- youth learn about their community, gain volunteer hours, build leadership, language, communication and social skills * workshops and activities for parents and youth",
+    "eligibility": "Newcomers (landed immigrants and convention refugees) * Newcomer Youth Services -- landed immigrants and convention refugees 13-24 years",
+    "languages": [
+      "English",
+      "French",
+      "Armenian",
+      "Chinese (Mandarin)",
+      "Farsi",
+      "Hindi",
+      "Indonesian",
+      "Nepali",
+      "Punjabi",
+      "Russian",
+      "Spanish",
+      "Ukrainian",
+      "Urdu"
+    ],
+    "tags": [
+      "socialinsurancenumber",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "20 Grosvenor St",
+      "municipality": "former Toronto",
+      "neighbourhood": "Bay Street Corridor, 76",
+      "postalCode": "M4Y 2V5",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-975-9168 ext 32400",
+      "email": "Not available",
+      "website": "http://www.ymcagta.org/immigrantservices"
+    },
+    "hours": "Mon-Thu 9 am-6 pm, Fri 9 am-2 pm, Sat 10 am-2 pm",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms * TTY available for outbound calls * designated parking",
+    "sourceUpdated": "2016-01-06T05:00:00"
+  },
+  {
+    "id": "resource-47",
+    "sourceId": 47,
+    "name": "Community MicroSkills Development Centre",
+    "category": "Employment",
+    "description": "Community centre * after school programs * life skills training and employability skills * employment counselling, resume help, pre-employment and pre-apprenticeship programs * settlement services * homework help * social and recreation programs * leadership training * discussion groups Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrant and refugee youth to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Settlement Program (formerly Immigrant Settlement and Adaptation Program) -- services to enable immigrants and refugees to integrate into Canadian society including orientation programs, language and skills training to help facilitate employment, and programs to welcome newcomers to the community * individual agencies may provide needs and eligibility assessments, pre- and post-arrival information and referral, job search and employment counselling, assistance to establish social and professional networks to promote community engagement, and assistance to access a range of settlement services",
+    "eligibility": "Youth 13-29 years",
+    "languages": [
+      "English",
+      "other languages on request"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "235 Dixon Rd",
+      "municipality": "Etobicoke",
+      "neighbourhood": "Kingsview Village-The Westway, 6",
+      "postalCode": "M9P 2M5",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-247-7181 ext 2601",
+      "email": "admin@microskills.ca",
+      "website": "http://www.microskills.ca"
+    },
+    "hours": "Mon-Fri 10 am-6:30 pm",
+    "accessibility": "Not wheelchair accessible",
+    "sourceUpdated": "2015-09-23T04:00:00"
+  },
+  {
+    "id": "resource-48",
+    "sourceId": 48,
+    "name": "Neighbourhood Link Support Services",
+    "category": "Language",
+    "description": "Kick Start Youth Homework and Recreation Club -- after school programs for youth 7-12 years * homework club * mentorship program for youth 13-18 years * recreation * located at Crescent Town Club, 2A The Market Place Newcomer services * Beginners Computer and Keyboarding -- basic computer class to learn how to use a computer, including Microsoft Word, Internet use and improving keyboarding skills * Conversation Circle -- practice English language skills, located at Crescent Town Club, 2A The Market Place * Healthy Lifestyle Workshops -- information on healthy lifestyle choices and reduce the stress of adjusting to Canadian culture, at Crescent Town Club, 2A The Market Place",
+    "eligibility": "All youth who meet eligibility criteria (see below) * newcomers to Canada, including refugees",
+    "languages": [
+      "English"
+    ],
+    "tags": [
+      "language",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "3036 Danforth Ave",
+      "municipality": "East York",
+      "neighbourhood": "Taylor-Massey, 61",
+      "postalCode": "M4C 1N2",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-691-7407",
+      "email": "info@neighbourhoodlink.org",
+      "website": "http://www.neighbourhoodlink.org"
+    },
+    "hours": "Mon-Fri 9 am-5 pm",
+    "accessibility": "Wheelchair accessible building including main entrance and barrier free washrooms * street parking close to entrance",
+    "sourceUpdated": "2015-04-27T04:00:00"
+  },
+  {
+    "id": "resource-49",
+    "sourceId": 49,
+    "name": "WoodGreen Community Services",
+    "category": "Taxes",
+    "description": "Settlement services -- orientation, integration * counselling * information and referral * newcomer workshops * worker and parent network support groups * Muslim young women's group * financial literacy program * newcomer volunteer program * English Conversation Circle * Microsoft Computer Certification Program * social and recreational activities * Befriending Program -- matches newcomers with Canadian volunteer hosts who offer orientation to their local area and moral support in their transition to Canada Immigrant Youth Program -- for youth 13-24 years * friendship and emotional support * individual support * homework club * computer camp * sports club * social and recreational activities * orientation to postsecondary education* job search support * support for at-risk newcomer youth Mentorship for Internationally Trained Professionals -- one-on-one or online program * matches internationally trained professionals with a mentor from a similar profession for cultural and professional orientation * Community Connections Group Activity Program -- group activities for newly arrived immigrants and refugees to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Seasonal income tax clinic -- open to all Some programs and services provided off site Settlement Program, formerly Immigrant Settlement and Adaptation Program",
+    "eligibility": "Newcomers (immigrants and refugees) * Mentorship for Internationally Trained Professionals -- foreign-trained professionals who are landed immigrants or Convention refugees",
+    "languages": [
+      "English",
+      "French",
+      "Albanian",
+      "Arabic",
+      "Armenian",
+      "Belorussian",
+      "Bengali",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Czech",
+      "Farsi",
+      "Filipino",
+      "German",
+      "Greek",
+      "Gujarati",
+      "Hindi",
+      "Hungarian",
+      "Italian",
+      "Japanese",
+      "Polish",
+      "Portuguese",
+      "Punjabi",
+      "Russian"
+    ],
+    "tags": [
+      "taxes",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "815 Danforth Ave",
+      "municipality": "former Toronto",
+      "neighbourhood": "Danforth Village-Toronto, 66",
+      "postalCode": "M4J 1L2",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-645-6000 ext 2100/2200",
+      "email": "newcomerinfo@woodgreen.org",
+      "website": "http://www.woodgreen.org"
+    },
+    "hours": "Mon-Thu 9 am-5 pm, Fri 9 am-12:30 pm * some evening and Saturday programs",
+    "accessibility": "Wheelchair accessible automatic main entrance ; Easy access to elevator ; Wheelchair accessible washroom, assistance needed with door ; Street parking - not designated",
+    "sourceUpdated": "2016-01-25T05:00:00"
+  },
+  {
+    "id": "resource-50",
+    "sourceId": 50,
+    "name": "Albanian Canadian Association Kosova",
+    "category": "Settlement",
+    "description": "Community centre * settlement services * information and referral * support groups * youth support groups * individual and family counselling * translation and interpretation * assistance with immigration",
+    "eligibility": "Open to all including immigrants and refugees * focus on Albanian community",
+    "languages": [
+      "English",
+      "Albanian"
+    ],
+    "tags": [
+      "settlement",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "3400-3422 Dundas St W",
+      "municipality": "York",
+      "neighbourhood": "Runnymede-Bloor West Village, 89",
+      "postalCode": "M6S 2S1",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-760-0172",
+      "email": "kosova@bellnet.ca",
+      "website": "http://"
+    },
+    "hours": "Mon-Fri 8:30 am-5:30 pm, Sat 8 am-1 pm",
+    "accessibility": "Not Accessible ; Designated parking at entrance",
+    "sourceUpdated": "2015-06-02T04:00:00"
+  },
+  {
+    "id": "resource-51",
+    "sourceId": 51,
+    "name": "Conseil scolaire de district catholique Centre-Sud",
+    "category": "Language",
+    "description": "French as a First Language Catholic elementary and secondary education programs New to Canada? -- helps newcomer students to integrate into Canadian society and, if needed, bring their speech, reading and writing skills up to par Regional offices North-East Regional Office (Toronto) 416-367-6564, 1-800-274-3764 South-West Regional Office (Hamilton) 905-524-2503, 1-877-646-9091",
+    "eligibility": "Children and youth 4-21 years with at least one Canadian parent whose first language is French or who have received elementary education in French in Canada * also children with siblings enrolled in a French as a First Language school * others may apply to school Admissions Committee for consideration * How to register",
+    "languages": [
+      "French"
+    ],
+    "tags": [
+      "language",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "110 Drewry Ave",
+      "municipality": "North York",
+      "neighbourhood": "Newtonbrook West, 36",
+      "postalCode": "M2M 1C8",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-397-6564",
+      "email": "commentaires@csdccs.edu.on.ca",
+      "website": "http://www.csdccs.edu.on.ca"
+    },
+    "hours": "Mon-Fri 8:30-4:30",
+    "accessibility": "Designated parking at entrance ; Wheelchair accessible automatic main entrance ; Barrier-free washroom including door and stall ; Wheelchair accessible main entrance",
+    "sourceUpdated": "2015-10-29T04:00:00"
+  },
+  {
+    "id": "resource-52",
+    "sourceId": 52,
+    "name": "Bangladeshi Canadian Community Services",
+    "category": "Employment",
+    "description": "Settlement services * information and referral including for legal advice on refugee and immigration matters or for crisis intervention for assaulted women or men * form filling * sessions to address domestic abuse and violence * individual, couple and family counselling * job search support -- mentoring, placement, information * career counselling for internationally trained professionals * youth counselling * support groups for families After School Tutoring Program (ASTP) -- for students 10-29 years, Saturdays 2-5 pm at AccessPoint on Danforth, 3079 Danforth Ave Senior Services -- senior support program * workshops, accompaniment to appointments, interpreting, home supports Youth Engagement Program * Youth Eliminates Smoking program",
+    "eligibility": "Open to all including immigrants and refugees * focus on Taylor Massey community",
+    "languages": [
+      "English",
+      "Bengali",
+      "Hindi",
+      "Urdu"
+    ],
+    "tags": [
+      "employment",
+      "newcomer-support"
+    ],
+    "location": {
+      "address": "2899 Danforth Ave",
+      "municipality": "former Toronto",
+      "neighbourhood": "East End-Danforth, 62",
+      "postalCode": "M4C 1M3",
+      "latitude": null,
+      "longitude": null
+    },
+    "contact": {
+      "phone": "416-699-4484",
+      "email": "nakter@bangladeshi.ca",
+      "website": "http://www.bangladeshi.ca"
+    },
+    "hours": "Mon-Fri 9:30 am-4:30 pm",
+    "accessibility": "Wheelchair accessible washroom, assistance needed with door ; Main entrance wheelchair accessible",
+    "sourceUpdated": "2015-09-15T04:00:00"
+  }
+]

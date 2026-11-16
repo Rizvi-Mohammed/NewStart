@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= resource.name %> | NewStart</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <p class="brand"><a href="/">NewStart</a></p>
+        <h1><%= resource.name %></h1>
+        <p><%= resource.category %> service</p>
+    </header>
+    <main>
+        <article class="resource-card detail-card">
+            <p><strong>Description:</strong> <%= resource.description %></p>
+            <p><strong>Eligibility:</strong> <%= resource.eligibility %></p>
+            <p><strong>Languages:</strong> <%= resource.languages.join(", ") || "Not available" %></p>
+            <p><strong>Address:</strong> <%= resource.location.address %></p>
+            <p><strong>Municipality:</strong> <%= resource.location.municipality %></p>
+            <p><strong>Neighbourhood:</strong> <%= resource.location.neighbourhood %></p>
+            <p><strong>Phone:</strong> <%= resource.contact.phone %></p>
+            <p><strong>Email:</strong> <%= resource.contact.email %></p>
+            <p><strong>Hours:</strong> <%= resource.hours %></p>
+            <p><strong>Accessibility:</strong> <%= resource.accessibility %></p>
+            <% if (resource.contact.website !== "Not available") { %>
+                <p><a href="<%= resource.contact.website %>" target="_blank" rel="noreferrer">Visit organization website</a></p>
+            <% } %>
+        </article>
+        <p><a href="/resources">Back to all resources</a></p>
+    </main>
+</body>
+</html>

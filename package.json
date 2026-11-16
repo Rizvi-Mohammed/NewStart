@@ -1,0 +1,23 @@
+{
+  "name": "newstart-resource-finder",
+  "version": "1.0.0",
+  "description": "Toronto newcomer resource finder for WEB700.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "prepare-data": "node scripts/prepare-data.js"
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "toronto",
+    "newcomers"
+  ],
+  "author": "Mohammed Abbas Rizvi and Lawrence George",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}

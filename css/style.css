@@ -25,6 +25,67 @@ body {
     margin: 0;
 }
 
+a {
+    color: var(--teal-dark);
+}
+
+header a {
+    color: inherit;
+}
+
+.action-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 28px;
+}
+
+.button-link {
+    background: var(--teal);
+    border: 1px solid var(--teal);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 11px 18px;
+    text-decoration: none;
+}
+
+.button-link:hover {
+    background: #00676d;
+}
+
+.secondary-link {
+    background: white;
+    color: var(--teal);
+}
+
+.filter-form {
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(17, 67, 76, 0.08);
+    padding: 24px;
+}
+
+.filter-form button {
+    margin-top: 20px;
+}
+
+.resource-list {
+    display: grid;
+    gap: 20px;
+}
+
+.resource-card h2,
+.resource-card h3 {
+    font-family: Georgia, serif;
+    margin-top: 0;
+}
+
+.results-count {
+    margin: 24px 0;
+}
+
 header {
     background: var(--teal-dark);
     border-bottom: 5px solid var(--amber);

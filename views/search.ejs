@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search | NewStart</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <p class="brand"><a href="/">NewStart</a></p>
+        <h1>Search Toronto newcomer services</h1>
+        <p>Search by service, need, language, organization, or area.</p>
+    </header>
+    <main>
+        <form class="filter-form" method="post" action="/search">
+            <label for="keyword">What service do you need?</label>
+            <input id="keyword" name="keyword" value="<%= filters.keyword || "" %>" placeholder="For example: housing, employment, Arabic" required>
+            <label for="category">Category (optional)</label>
+            <select id="category" name="category">
+                <option value="">All categories</option>
+                <% categories.forEach((category) => { %>
+                    <option value="<%= category %>" <%= filters.category === category ? "selected" : "" %>><%= category %></option>
+                <% }) %>
+            </select>
+            <label for="language">Language (optional)</label>
+            <select id="language" name="language">
+                <option value="">All languages</option>
+                <% languages.forEach((language) => { %>
+                    <option value="<%= language %>" <%= filters.language === language ? "selected" : "" %>><%= language %></option>
+                <% }) %>
+            </select>
+            <button type="submit">Search resources</button>
+        </form>
+
+        <% if (error) { %>
+            <p class="notice"><%= error %></p>
+        <% } %>
+        <% if (results) { %>
+            <h2>Search results</h2>
+            <p class="results-count"><strong><%= results.length %></strong> resource(s) found.</p>
+            <% if (!results.length) { %>
+                <p class="notice">No services match your search. Try another word or filter.</p>
+            <% } %>
+            <section class="resource-list">
+                <% results.forEach((resource) => { %>
+                    <article class="resource-card">
+                        <p class="step-label"><%= resource.category %></p>
+                        <h3><a href="/resources/<%= resource.id %>"><%= resource.name %></a></h3>
+                        <p><%= resource.description %></p>
+                    </article>
+                <% }) %>
+            </section>
+        <% } %>
+    </main>
+</body>
+</html>
