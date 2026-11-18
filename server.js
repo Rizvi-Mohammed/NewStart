@@ -21,9 +21,55 @@ function loadResources() {
 }
 
 const resources = loadResources();
+const guides = JSON.parse(fs.readFileSync(path.join(__dirname, "data", "guides.json"), "utf8"));
+const postalAreas = {
+    M1: "Scarborough", M2: "North York", M3: "North York", M4: "Toronto",
+    M5: "Toronto", M6: "Toronto", M8: "Etobicoke", M9: "Etobicoke"
+};
+
+function guideFor(category) {
+    return guides[category] || guides.All;
+}
+
+// Matches Part 1: a valid Toronto postal code is turned into a service area.
+function areaFromPostalCode(postalCode) {
+    const postal = String(postalCode || "").toUpperCase().replace(/\s/g, "");
+
+    if (!postal) {
+        return { area: "" };
+    }
+
+    if (!/^M\d[A-Z]\d[A-Z]\d$/.test(postal)) {
+        return { error: "Enter a Toronto postal code, for example M5V 2T6, or leave it blank." };
+    }
+
+    return { area: postalAreas[postal.slice(0, 2)] || "Toronto" };
+}
 
 function normalized(value) {
     return String(value || "").trim().toLowerCase();
+}
+
+// Same category keywords as the Part 1 prototype, so a service can match more than one need.
+const categoryTerms = {
+    Employment: ["employment", "career", "job"],
+    Language: ["language", "english class", "esl"],
+    Housing: ["housing", "shelter"],
+    Healthcare: ["health", "medical"],
+    DriversLicence: ["driver", "driver's licence", "drivers licence", "driver licence", "photo id", "serviceontario"],
+    Taxes: ["tax", "income tax", "tax return", "cra"],
+    SocialInsuranceNumber: ["social insurance number"]
+};
+
+function matchesCategory(resource, category) {
+    const key = Object.keys(categoryTerms).find((name) => name.toLowerCase() === category);
+
+    if (!key) {
+        return normalized(resource.category) === category;
+    }
+
+    const serviceText = `${resource.name} ${resource.description} ${resource.eligibility}`.toLowerCase();
+    return categoryTerms[key].some((term) => serviceText.includes(term));
 }
 
 function filterResources(records, options) {
@@ -45,7 +91,7 @@ function filterResources(records, options) {
         ].join(" ").toLowerCase();
 
         return (!keyword || searchableText.includes(keyword)) &&
-            (!category || normalized(resource.category) === category) &&
+            (!category || matchesCategory(resource, category)) &&
             (!language || resource.languages.some((item) => normalized(item).includes(language))) &&
             (!area || `${resource.location.municipality} ${resource.location.neighbourhood}`.toLowerCase().includes(area));
     });
@@ -63,7 +109,8 @@ function findResource(id) {
 
 function searchOptions() {
     return {
-        categories: [...new Set(resources.map((resource) => resource.category))].sort(),
+        categories: Object.keys(guides).filter((key) => key !== "All"),
+        guides,
         languages: [...new Set(resources.flatMap((resource) => resource.languages))].sort(),
         areas: [...new Set(resources.map((resource) => resource.location.municipality))].sort()
     };
@@ -109,6 +156,7 @@ app.get("/resources", (request, response) => {
     response.render("resources", {
         resources: filterResources(resources, request.query),
         filters: request.query,
+        guide: guideFor(request.query.category),
         ...searchOptions()
     });
 });
@@ -121,7 +169,7 @@ app.get("/resources/:id", (request, response, next) => {
         return;
     }
 
-    response.render("resource-detail", { resource });
+    response.render("resource-detail", { resource, guide: guideFor(resource.category) });
 });
 
 app.get("/search", (request, response) => {
@@ -129,27 +177,35 @@ app.get("/search", (request, response) => {
         filters: {},
         results: null,
         error: null,
+        guide: guideFor(""),
         ...searchOptions()
     });
 });
 
 app.post("/search", (request, response) => {
-    const keyword = String(request.body.keyword || "").trim();
+    const filters = { ...request.body, keyword: String(request.body.keyword || "").trim() };
+    const location = areaFromPostalCode(filters.postalCode);
+    const error = filters.mode === "keyword" && !filters.keyword
+        ? "Please enter a keyword to search for a service."
+        : location.error;
 
-    if (!keyword) {
+    if (error) {
         response.status(400).render("search", {
-            filters: request.body,
+            filters,
             results: null,
-            error: "Please enter a keyword to search for a service.",
+            error,
+            guide: guideFor(filters.category),
             ...searchOptions()
         });
         return;
     }
 
     response.render("search", {
-        filters: request.body,
-        results: filterResources(resources, request.body),
+        filters,
+        results: filterResources(resources, { ...filters, area: location.area }),
+        area: location.area,
         error: null,
+        guide: guideFor(filters.category),
         ...searchOptions()
     });
 });

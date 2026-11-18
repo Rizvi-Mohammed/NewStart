@@ -31,6 +31,11 @@ a {
 
 header a {
     color: inherit;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
 }
 
 .action-links {
@@ -62,13 +67,61 @@ header a {
 .filter-form {
     background: var(--paper);
     border: 1px solid var(--line);
-    border-radius: 8px;
+    border-radius: 18px 18px 18px 5px;
     box-shadow: 0 8px 20px rgba(17, 67, 76, 0.08);
-    padding: 24px;
+    display: grid;
+    gap: 0 16px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    margin-top: 24px;
+    padding: 24px 28px 28px;
+}
+
+.filter-form label {
+    margin-top: 0;
+}
+
+.filter-form .field-wide,
+.filter-form .form-actions {
+    grid-column: 1 / -1;
+}
+
+.filter-form .field-wide {
+    margin-bottom: 18px;
 }
 
 .filter-form button {
     margin-top: 20px;
+}
+
+.or-divider {
+    margin: 28px 0 0;
+    text-align: center;
+}
+
+.resource-card h3 a {
+    color: var(--ink);
+    text-decoration: none;
+}
+
+.resource-card h3 a:hover {
+    color: var(--teal);
+    text-decoration: underline;
+}
+
+.detail-link {
+    border: 1px solid var(--teal);
+    border-radius: 5px;
+    color: var(--teal);
+    display: inline-block;
+    font-size: 0.92rem;
+    font-weight: bold;
+    margin-top: 12px;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+.detail-link:hover {
+    background: var(--teal-pale);
 }
 
 .resource-list {
@@ -430,6 +483,49 @@ button:focus-visible {
 
 .travel-panel {
     margin-top: 14px;
+}
+
+summary.map-button {
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    list-style: none;
+}
+
+summary.map-button::-webkit-details-marker {
+    display: none;
+}
+
+details[open] > summary.map-button::after {
+    content: " (hide)";
+    font-weight: normal;
+}
+
+.map-pin-label {
+    align-items: center;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 6px 14px rgba(17, 67, 76, 0.12);
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    font-size: 0.88rem;
+    padding: 10px 14px;
+    text-align: center;
+}
+
+.map-pin {
+    background: var(--teal);
+    border: 3px solid white;
+    border-radius: 50% 50% 50% 0;
+    box-shadow: 0 0 0 2px var(--teal);
+    height: 22px;
+    margin-bottom: 6px;
+    transform: rotate(-45deg);
+    width: 22px;
 }
 
 .travel-status,

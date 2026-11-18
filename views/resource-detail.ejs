@@ -14,21 +14,51 @@
     </header>
     <main>
         <article class="resource-card detail-card">
-            <p><strong>Description:</strong> <%= resource.description %></p>
+            <div class="badges">
+                <span class="badge"><%= resource.category %></span>
+                <span class="badge budget-badge">Contact organization about cost</span>
+            </div>
+            <p><%= resource.description %></p>
             <p><strong>Eligibility:</strong> <%= resource.eligibility %></p>
-            <p><strong>Languages:</strong> <%= resource.languages.join(", ") || "Not available" %></p>
-            <p><strong>Address:</strong> <%= resource.location.address %></p>
-            <p><strong>Municipality:</strong> <%= resource.location.municipality %></p>
-            <p><strong>Neighbourhood:</strong> <%= resource.location.neighbourhood %></p>
-            <p><strong>Phone:</strong> <%= resource.contact.phone %></p>
-            <p><strong>Email:</strong> <%= resource.contact.email %></p>
-            <p><strong>Hours:</strong> <%= resource.hours %></p>
-            <p><strong>Accessibility:</strong> <%= resource.accessibility %></p>
+            <div class="contact-details">
+                <p><strong>Languages:</strong> <%= resource.languages.join(", ") || "Not available" %></p>
+                <p><strong>Address:</strong> <%= resource.location.address %></p>
+                <p><strong>Municipality:</strong> <%= resource.location.municipality %></p>
+                <p><strong>Neighbourhood:</strong> <%= resource.location.neighbourhood %></p>
+                <p><strong>Phone:</strong> <%= resource.contact.phone %></p>
+                <p><strong>Email:</strong> <%= resource.contact.email %></p>
+            </div>
+            <div class="extra-details">
+                <p><strong>Hours:</strong> <%= resource.hours %></p>
+                <p><strong>Accessibility:</strong> <%= resource.accessibility %></p>
+            </div>
             <% if (resource.contact.website !== "Not available") { %>
-                <p><a href="<%= resource.contact.website %>" target="_blank" rel="noreferrer">Visit organization website</a></p>
+                <a class="detail-link" href="<%= resource.contact.website %>" target="_blank" rel="noreferrer">Visit organization website</a>
             <% } %>
+            <details class="travel-section">
+                <summary class="map-button">Map and directions (prototype)</summary>
+                <div class="travel-panel">
+                    <div class="travel-times">
+                        <span class="badge travel-badge">Sample car: 12 min</span>
+                        <span class="badge travel-badge">Sample walk: 42 min</span>
+                        <span class="badge travel-badge">Sample transit: 25 min</span>
+                    </div>
+                    <div class="map-preview map-placeholder">
+                        <div class="map-pin-label">
+                            <span class="map-pin" aria-hidden="true"></span>
+                            <strong><%= resource.name %></strong>
+                            <span><%= resource.location.address %>, <%= resource.location.municipality %></span>
+                        </div>
+                    </div>
+                    <div class="direction-links">
+                        <a href="https://www.google.com/maps/search/?api=1&query=<%= encodeURIComponent(`${resource.location.address}, Toronto, ON`) %>" target="_blank" rel="noreferrer">Open in Google Maps</a>
+                    </div>
+                    <p class="travel-note">Travel times are sample values only. A live map and directions will be added in a later phase.</p>
+                </div>
+            </details>
         </article>
-        <p><a href="/resources">Back to all resources</a></p>
+        <%- include("partials/guide", { guide }) %>
+        <a class="button-link secondary-link" href="/resources">Back to all resources</a>
     </main>
 </body>
 </html>

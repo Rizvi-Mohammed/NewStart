@@ -34,7 +34,7 @@
     "id": "resource-2",
     "sourceId": 2,
     "name": "North York Community House",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Community Settlement Services -- one-on-one and group settlement services available to new permanent residents, convention refugees and refugee claimants * information and referral * orientation * formerly Immigrant Settlement and Adaptation Program English Language Support -- group conversation circles for newcomers Community Building -- working with residents on local issues to improve social networks and economic security Skills and Leadership -- training in leadership, group facilitation skills, peer leadership, and practicums in these areas, for adults * also Newcomer Youth Leadership Training * employment readiness -- orientation to Canadian workplace culture, employment counselling and assessment, small business development support * financial literacy workshops",
     "eligibility": "Open to all",
     "languages": [
@@ -61,7 +61,7 @@
       "not all languages available at all sites"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -85,7 +85,7 @@
     "id": "resource-3",
     "sourceId": 3,
     "name": "FCJ Refugee Centre",
-    "category": "SocialInsuranceNumber",
+    "category": "Language",
     "description": "Legal information -- legal information on immigration and refugee issues, work permits, student permits, permanent resident applications, and other issues Shelter -- transitional housing for refugee claimant women and children * help with the refugee process, including legal, mental health, social services and other referrals * support and accompaniment to appointments Primary Health Care and Mental Health Clinic -- Saturdays, no Ontario Health Insurance required * settlement services * group for youth with precarious immigration status * holistic support services for victims/survivors of human trafficking * support groups and activities for women * Spanish interpretation and translation * English as a Second Language (ESL) classes Public education -- workshops for service providers and others on legal information needs of refugee claimants and non-status people and on immigration and refugee procedures * publications, public speakers",
     "eligibility": "People with precarious migration status including refugee claimants, people without status, victims and survivors of human trafficking * shelter -- refugee women and children",
     "languages": [
@@ -97,7 +97,7 @@
       "access to interpreters for other languages"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "language",
       "newcomer-support"
     ],
     "location": {
@@ -121,7 +121,7 @@
     "id": "resource-4",
     "sourceId": 4,
     "name": "Arab Community Centre of Toronto",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Settlement Services (formerly Immigrant Settlement and Adaptation Program) and Newcomer Settlement Program -- information and referral * housing and legal assistance * translation and interpretation * escort * counselling for students, individuals and families, liaising with Children's Aid Society * youth counselling and parenting sessions * orientation * settlement * refugee services -- referral and assistance with shelter, attendance at inquiry, employment, social, welfare and legal services * social and cultural activities * Ontario Community Participation -- volunteer placement program for Ontario Works recipients * also offered at 1 Resurrection Rd, 416-533-3292 ; 898 Markham Rd, 416-439-0767 Youth Services -- settlement program encouraging civic participation and integration through a focus on recreation, sport, and mentorship Employment Services -- Job Search Workshops (JSW) for new immigrants, Convention refugees or Live-in Caregivers, legally entitled to work in Canada * 3 or 4 day job search techniques workshops, including assessment with a job coach, individual action plan, labour market information, life skills and preemployment workshops with resume preparation, networking * extensive individual assistance Problem Gambling Program -- culturally appropriate prevention, education and treatment * outreach and public education to community groups * individual or group counselling for gamblers or those affected Domestic Violence Education Program -- counselling and referral for victims of family violence",
     "eligibility": "Open to everyone",
     "languages": [
@@ -141,7 +141,7 @@
       "Urdu"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -249,7 +249,7 @@
     "id": "resource-7",
     "sourceId": 7,
     "name": "Jewish Family & Child",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Range of services for persons with social and emotional problems * all services confidential Children -- operates as a Children's Aid Society for the Jewish community * investigates allegations of child neglect and abuse * child protection services * adoption and foster home services and recruitment * adoption disclosure * counselling * big brothers and big sisters program * homework club Families -- individual, couple, family and group counselling * family life education and life skills programs * financial assistance combined with rehabilitation for persons on social assistance * assistance in finding employment and accommodation * support for families with special needs children Woman abuse -- counselling, emergency financial assistance, court accompaniment * groups for assaulted women, abusive men * Here to Help -- group program for children (and their mothers) exposed to woman abuse * community outreach * short term accommodation with kosher kitchen for one assaulted woman, with or without children Other services -- friendly visiting * support for single parents, bereaved parents, widows and widowers, immigrants * groups for women who have been or are in hurtful relationships * chaplaincy services for those in hospitals, long term care facilities, correctional institutions, psychiatric hospitals, centres for persons with developmental disabilities * co-op apartment for 4 males who are socially disabled or ex-psychiatric patients -- subsidies available * Multilingual Access Program -- escort for persons who are already clients * Settlement and Education Partnership in Toronto (SEPT) -- outreach program based in elementary and secondary schools from mid-August to end of June, and in libraries and social service agencies from July to mid-August * Jewish Hospice Program -- in-home palliative care program * social work services in schools * speakers",
     "eligibility": "Not available",
     "languages": [
@@ -259,7 +259,7 @@
       "Yiddish"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -283,7 +283,7 @@
     "id": "resource-8",
     "sourceId": 8,
     "name": "West Neighbourhood House",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Settlement services -- small ethnic-based information groups * information and referral * group settlement sessions * individual assistance with immigration, orientation and other settlement-related issues * employment support * computer and Internet access * workshops * resource centre Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Program for youth 13-24 years -- leadership training * entrepreneurship * homework club * one-to-one help with resume writing and job search skills * computer drop-in * mentorship * sports clubs and recreation",
     "eligibility": "Permanent rsidents and refugee claimants including socially marginalized, homeless and non-status",
     "languages": [
@@ -300,7 +300,7 @@
       "Tamil"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -324,7 +324,7 @@
     "id": "resource-9",
     "sourceId": 9,
     "name": "Toronto Catholic District School Board",
-    "category": "SocialInsuranceNumber",
+    "category": "Language",
     "description": "Full academic program in a Roman Catholic environment * kindergarten through grade 12 * single gender and coeducational secondary schools * Catholic family life education * Adult Education * Advance Placement Program * alternative education programs * French as a second language and Immersion * International Baccalaureate Program * Specialist High Skills Major programming * Dual Credit * School Within a College * Ontario Youth Apprenticeship * special education programs for exceptional children * schools specializing in arts, technology and media * support services Adult Education -- adult upgrading centres * English as a Second Language (ESL) classes -- see website for locations * Language Instruction for Newcomers to Canada (LINC) in English, upon assessment by YMCA of Greater Toronto -- see separate entry * Enhanced Language Training (ELT) * citizenship and international language classes Support Services -- child care centres, after school programs, caregiver and child drop-ins and parenting centres at some schools -- call 416-222-8282 ext 2475 for information * nutrition programs, home instruction, social work, psychological and psychiatric services, guidance counselling, program for persons who are deaf or hard of hearing, reading, speech and language correction, community liaison, chaplaincy and peer ministry programs, interpreter services and transportation for persons with physical disabilities after school literacy clubs * Comprehensive Literacy -- remedial literacy instruction for children up to Grade 3 * Orientation Centre -- placement centre for new Canadian secondary school students, call 416-393-5500 for appointment * individual schools listed in the telephone directory under Toronto Catholic District School Board",
     "eligibility": "Elementary level -- Roman Catholic children and children of Roman Catholic parents * secondary level open to all",
     "languages": [
@@ -333,7 +333,7 @@
       "Interpreters in other languages available upon request"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "language",
       "newcomer-support"
     ],
     "location": {
@@ -357,7 +357,7 @@
     "id": "resource-10",
     "sourceId": 10,
     "name": "YMCA of Greater Toronto",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Settlement information and referral * settlement information sessions in various locations * guest speaker series * Newcomer Network * access to computers, fax, photocopiers, and phone * settlement resource library * information on immigration and citizenship, employment and job searching, access to trades and professions, credential assessment, education and training, language classes, health and housing, community, recreation and consumer resources, human rights, legal and social services, child, youth and family resources, food, shelter, and clothing Library Settlement Partnerships -- outreach program at Centennial Library * settlement information and referral * Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Services -- youth-focused settlement information and referral * Newcomer Youth Leadership Development -- youth learn about their community, gain volunteer hours, build leadership, language, communication and social skills * workshops and activities for parents and youth",
     "eligibility": "Newcomers (landed immigrants and convention refugees) * Newcomer Youth Services -- landed immigrants and convention refugees 13-24 years",
     "languages": [
@@ -380,7 +380,7 @@
       "Ukrainian"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -404,7 +404,7 @@
     "id": "resource-11",
     "sourceId": 11,
     "name": "YMCA of Greater Toronto",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Settlement information and referral * settlement information sessions in various locations * guest speaker series * Newcomer Network * access to computers, fax, photocopiers, and phone * settlement resource library * information on topics such as immigration and citizenship, employment and job searching, access to trades and professions, credential assessment, education and training, language classes, health and housing, community, recreation and consumer resources, human rights, legal and social services, child, youth and family resources, food, shelter, and clothing Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Services -- youth-focused settlement information and referral * Newcomer Youth Leadership Development -- youth learn about their community, gain volunteer hours, build leadership, language, communication and social skills * workshops and activities for parents and youth",
     "eligibility": "Newcomers (landed immigrants and convention refugees) * Newcomer Youth Services -- landed immigrants and convention refugees 13-24 years",
     "languages": [
@@ -417,7 +417,7 @@
       "Tamil"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -523,7 +523,7 @@
     "id": "resource-14",
     "sourceId": 14,
     "name": "Riverdale Immigrant Women's Centre",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Information and referral * counselling -- family, group, crisis and assaulted women * family violence education * advocacy * settlement services -- referrals to legal, housing, health, immigration and employment services * form filling * life skills * job search skills * community economic development Essential Pathways to Employment Program (EPE) -- 8 week program * in-depth skills analysis * action plan development * skills and workplace training * childminding and transportation assistance available through Toronto. Employment and Social Services -- see separate entry Violence Against Women/Youth Program -- individual counselling for crisis, abuse, assault and trauma * stress management, assertiveness training * escort to legal appointments * group and one-on-one counselling for youth experiencing any kind of violence including bullying, child abuse, harassment, girl-on-girl violence, date rape * space for immigrant and refugee youth of colour to explore their cultural identity and sense of belonging in Canada Volunteer and Student Placement Program -- job placements to build skills and gain experience * opportunities in social or settlement services, counselling support, employment help, office administration or reception, marketing and outreach Global Pantry catering service * Social Gardener Cafe * social enterprises",
     "eligibility": "Adults 16 years and older * focus on immigrant women and their families * Essential Pathways to Employment Program -- all Ontario Works (OW) recipients, men and women",
     "languages": [
@@ -548,7 +548,7 @@
       "Urdu"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -642,14 +642,14 @@
     "id": "resource-17",
     "sourceId": 17,
     "name": "YWCA Toronto",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Individual and group counselling, life skills * information and referral -- health care, housing, education, transportation * career counselling, employment assistance * cash register, customer service and food handling training * Level C emergency first aid and CPR training * computer workshops * access to computers, Internet, fax * art program, field trips * TTC tokens and care for newcomer children provided * volunteer opportunities",
     "eligibility": "Newcomer women and girls 13 years and older * permanent residents or convention refugees and temporary residents with work permit under the Live-in Caregiver program",
     "languages": [
       "English"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -673,7 +673,7 @@
     "id": "resource-18",
     "sourceId": 18,
     "name": "YWCA Toronto",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Individual and group counselling * skills based training -- Retail, Workplace Hazardous Materials Information System (WHMIS), Food Handling * information and referral -- health care, housing, school, recreation, transportation, banking * career and skills assessment * job search workshops * access to computers, Internet, fax * events and field trips * TTC tokens may be available * volunteer opportunities may be available",
     "eligibility": "Newcomer women and girls 13 years and older * permanent residents or convention refugees and temporary residents with work permit under the Live-in Caregiver program",
     "languages": [
@@ -686,7 +686,7 @@
       "Urdu"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -788,7 +788,7 @@
     "id": "resource-21",
     "sourceId": 21,
     "name": "Youth Employment Services YES",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Individual and group employment counselling, assessment, job postings, referral and follow up * employability improvement, integration into workforce * job search workshops, newcomer services, self-marketing, entrepreneurship Student services -- summer job service * year round services for students seeking part time jobs * workshops * volunteer and co-op placements YESAbility -- for postsecondary students with disabilities * employment assistance includes matching skills and qualifications with part time jobs and finding part time employment opportunities * resume and interview tips * realistic employment action plans * assistance in gaining work experience and marketable skills Summer Company -- entrepreneurship program for students aged 15-30 looking to start their own business during summer break * participants receive funding and support BizStart Entrepreneurship Program -- for youth who are not in school * 12-month paid business incubator program includes training and support",
     "eligibility": "Unemployed and out of school youth 15-30 years",
     "languages": [
@@ -796,7 +796,7 @@
       "French"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -889,7 +889,7 @@
     "id": "resource-24",
     "sourceId": 24,
     "name": "Jewish Family & Child",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Range of services for persons with social and emotional problems * all services confidential Children -- operates as a Children's Aid Society for the Jewish community * investigates allegations of child neglect and abuse * child protection services * adoption and foster home services and recruitment * adoption disclosure * counselling * big brothers and big sisters program * homework club Families -- individual, couple, family and group counselling * family life education and life skills programs * financial assistance combined with rehabilitation for persons on social assistance * assistance in finding employment and accommodation * support for families with special needs children Woman abuse -- counselling, emergency financial assistance, court accompaniment * groups for assaulted women, abusive men * Here to Help -- group program for children (and their mothers) exposed to woman abuse * community outreach * short term accommodation with kosher kitchen for one assaulted woman, with or without children Other services -- friendly visiting * support for single parents, bereaved parents, widows and widowers, immigrants * groups for women who have been or are in hurtful relationships * chaplaincy services for those in hospitals, long term care facilities, correctional institutions, psychiatric hospitals, centres for persons with developmental disabilities * co-op apartment for 4 males who are socially disabled or expsychiatric patients -- subsidies available * Multilingual Access Program -- escort for persons who are already clients * Settlement and Education Partnership in Toronto (SEPT) -- outreach program based in elementary and secondary schools from mid-August to end of June, and in libraries and social service agencies from July to mid-August * Jewish Hospice Program -- in-home palliative care program * social work services in schools * speakers",
     "eligibility": "Not available",
     "languages": [
@@ -899,7 +899,7 @@
       "Yiddish"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -923,7 +923,7 @@
     "id": "resource-25",
     "sourceId": 25,
     "name": "For Youth Initiative",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Settlement Program -- orientation * needs and eligibility assessments * pre- and post-arrival information and referral on education, settlement, employment, social assistance, housing, recreation * assistance in accessing services * language and skills training * job search and employment counselling * assistance in establishing social and professional networks * problem solving, conflict resolution, cross cultural communication * workshops, seminars Community Connections Mentorship Program (formerly HOST Program) -- group orientation activities for newly arrived immigrants and refugees * trained volunteer mentors * help in establishing social and professional networks * development of citizenship and civic engagement * skills and career development Job Search Workshops (JSW) -- for new immigrants and convention refugees, legally entitled to work in Canada * job search techniques workshops, covering labour market information, access to trades and professions, resume preparation, networking * extensive individual assistance",
     "eligibility": "Newcomer youth 13-24 years, including permanent residents, landed immigrants, convention refugees and government assisted refugees",
     "languages": [
@@ -933,7 +933,7 @@
       "Spanish"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -957,7 +957,7 @@
     "id": "resource-26",
     "sourceId": 26,
     "name": "SEAS Centre",
-    "category": "SocialInsuranceNumber",
+    "category": "Housing",
     "description": "Support Enhance Access Service Centre Immigrants and newcomers -- supportive counselling * information and referral * assistance filling out forms including applications for social assistance, income security and affordable housing * escort and interpretation * free Internet access and training Family Services -- individual and family counselling * domestic violence crisis intervention Community development -- volunteer recruitment and training * outreach and networking * advocacy * cultural activities Youth Programs -- leadership training * newcomer adaptation * recreation Seniors Services -- social and recreation activities",
     "eligibility": "Immigrants, refugees and their families",
     "languages": [
@@ -968,7 +968,7 @@
       "Vietnamese"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "housing",
       "newcomer-support"
     ],
     "location": {
@@ -1101,7 +1101,7 @@
     "id": "resource-30",
     "sourceId": 30,
     "name": "CultureLink Settlement and Community Services",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Settlement services including orientation, counselling and support (formerly Immigrant Settlement and Adaptation Program) Integration into the Educational System Settlement Workers in Schools (SWIS) -- outreach program based in elementary and secondary schools from mid-August to end of June, and social service agencies from July to mid-August * individualized action plan, settlement information and referral, group activities, leadership education Employability and Social Integration Community Connections Mentorship Program (CCMP) -- 4-6 month one-to-one befriending program for newcomers based on gender, age and residential location * group activities for newly arrived immigrants and refugees to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Employment Assistance -- for newcomers and internationally trained professionals * personalized job search plan, labour market information, resume preparation, networking, interview preparation Library Settlement Partnership (LSP) -- newcomer outreach at the Mimico and Lillian H Smith branches of Toronto public library * workshops, one-to-one counselling, settlement referrals Newcomer Settlement Services (NSP) -- employment support services * one-to-one settlement counselling and referrals * form filling including applications for asylum * orientation sessions * culturally sensitive services for the Roma community Well-Being and Healthy Lifestyles Green Settlement programs Bike Host matches volunteer mentors with newcomers to encourage cycling * Fun and Safe Cycling to Schools * in partnership with Cycle Toronto Sankofa, Girls Taking Green Roots -- intergenerational activities for newcomer youth 15-29 years who identify as girls and interested in gardening, nutrition and cooking * part of Global Roots Project * snacks and TTC tokens available * Sankofa CultureLink Youth -- peer supported drop-in for LGBTQ newcomers 15-29 years * settlement services, community engagement, environmental stewardship, nutrition and health, self-defence * Sankofa Queer Arts Network -- for LGBTQ newcomer youth and allies, including settlement counselling and support, with activities focused on the arts and communications Wintegration Youth -- for newcomer youth attending high school, after school program * fitness, homework help, recreation * snacks included Newcomer Seniors Centre -- educational workshops, physical and mental exercises, recreation",
     "eligibility": "New immigrants and refugees, including Roma community * Sankofa, Newcomer Youth Services -- youth 14-29 years * Community Connections Mentorship Program -- newcomers 19 years or older, requires immigration papers or Permanent Resident card",
     "languages": [
@@ -1131,7 +1131,7 @@
       "Tibeta"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -1155,7 +1155,7 @@
     "id": "resource-31",
     "sourceId": 31,
     "name": "North York Community House",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Community Settlement Services -- one-on-one and group settlement services available to new permanent residents, convention refugees and refugee claimants * information and referral * orientation * formerly Immigrant Settlement and Adaptation Program Healthy Living -- school age children, women and seniors * workshops and discussion groups focus on access to healthy food and lifestyle, mental health, violence * physical activities in a fun environment Community Building -- working with residents on local issues to improve social networks and economic security Skills and Leadership -- training in leadership, group facilitation skills, peer leadership, and practicums in these areas, for adults * also Newcomer Youth Leadership Training * employment readiness -- orientation to Canadian workplace culture, employment counselling and assessment, small business development support * financial literacy workshops",
     "eligibility": "Open to all",
     "languages": [
@@ -1182,7 +1182,7 @@
       "not all languages available at all sites"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -1206,7 +1206,7 @@
     "id": "resource-32",
     "sourceId": 32,
     "name": "East Metro Youth Services",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Includes group workshops, mentorship opportunities, mental health education and support, homework help and educational supports, and employment skills development Welcoming Communities -- group orientation activities for newly arrived immigrants and refugees * trained volunteer mentors * help in establishing social and professional networks * development of citizenship and civic engagement * skills and career development Settlement Program -- orientation and counselling * needs and eligibility assessments * information and referral to community resources, service bridging * language and skills training * interpretation and translation * job search and employment counselling * assistance in establishing social and professional networks * assistance in accessing services",
     "eligibility": "Youth 12-21 years and their families, who are permanent residents or Convention refugees",
     "languages": [
@@ -1221,7 +1221,7 @@
       "Interpretation for other languages arranged if necessary"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -1286,7 +1286,7 @@
     "id": "resource-34",
     "sourceId": 34,
     "name": "West Neighbourhood House",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Family programs and Community Parents Outreach Program (CPOP) -- for young, single, low income or immigrant mothers and their families Women Abuse Program -- counselling and support for abused women and their children * assistance with transitional housing Newcomer youth program -- practice English skills * employment assistance * recreational activities including sports, music, arts * in partnership with other service providers",
     "eligibility": "Newcomer families * Woman Abuse Program -- women living in the City of Toronto who have experienced or are experiencing domestic violence * newcomer youth program -- landed immigrants 15-29 years",
     "languages": [
@@ -1300,7 +1300,7 @@
       "Vietnamese"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -1324,14 +1324,14 @@
     "id": "resource-35",
     "sourceId": 35,
     "name": "St Felix Centre",
-    "category": "SocialInsuranceNumber",
+    "category": "Language",
     "description": "Community centre * information and referral * general social support Adult Programs Lunch program Monday-Friday 11:30 am-1 pm * community supper Monday-Thursday 5 pm-6 pm * clothing bank program Tuesday-Wednesday 11 am-1 pm * computer classes Monday-Friday 10 am-1 pm (by appointment) Transitional Housing For women * maximum stay 1 year * capacity 14 * residents help prepare food for communal meals and share in care of house * residents create and implement a transition plan to independent living Children's Programs After school program, math tutoring, ESL classes * Friday night youth drop-in 6:30 pm-9 pm * Peer Support Program call for details 24 hour drop-in from January 1 to February 29, 2016",
     "eligibility": "Individuals and families facing poverty, homelessness or lack of opportunities and skills",
     "languages": [
       "English"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "language",
       "newcomer-support"
     ],
     "location": {
@@ -1422,7 +1422,7 @@
     "id": "resource-38",
     "sourceId": 38,
     "name": "Canadian Centre for Women's Education and Development",
-    "category": "SocialInsuranceNumber",
+    "category": "Housing",
     "description": "Case management * counselling for abused women and children * court accompaniment * support for young women with addictions * drop-in for newcomers (youth, women, seniors) * educational workshops * family and individual counselling * form filling including applications for subsidized housing * information and referral * mentoring for young women * outreach including young women and women with disabilities * seniors activities * youth programs * volunteer opportunities",
     "eligibility": "Low income women (including senior women), children and youth * focus on immigrant women and children",
     "languages": [
@@ -1435,7 +1435,7 @@
       "Urdu"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "housing",
       "newcomer-support"
     ],
     "location": {
@@ -1490,14 +1490,14 @@
     "id": "resource-40",
     "sourceId": 40,
     "name": "La Passerelle IDE",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Employment program -- luncheon meetings about employability * counselling and mentoring * information and referral Business and Business Plus programs -- entrepreneurship, business acumen and economic development * networking evenings Cultural skills program -- cultural skills training for francophone newcomers and francophone employers * supports for academic success for youth 15-25 years old Information for youth on French-language health services * culturally sensitive workshops on HIV/AIDS prevention * IKUEN community kitchen for young francophone immigrant women",
     "eligibility": "Ages: 18 year(s) - 35 year(s) Francophone youth and young adults from all cultural origins",
     "languages": [
       "French"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -1589,14 +1589,14 @@
     "id": "resource-43",
     "sourceId": 43,
     "name": "Skills for Change",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Mentoring for Change -- matches internationally trained professional newcomers with volunteer mentors Youth Entrepreneurship Hub -- for anyone 15-29 years, Women Entrepreneurship Hub -- 12 week programs with workspace, planning seminars, grant and loan information, business mentorship and coaching CareerSkills -- instructor-led and hands-on training in business, accounting and finance software applications * some classes held at other locations Also many employment preparation programs for those in specific professions (may include enhanced language training) including accountants, bookkeepers, clerical workers, electricians, engineers, mechanics, retail workers",
     "eligibility": "All newcomers, immigrants and refugees -- varies according to program * special focus on foreign-trained professionals * all programs include English as a Second Language (ESL) training",
     "languages": [
       "English"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -1620,7 +1620,7 @@
     "id": "resource-44",
     "sourceId": 44,
     "name": "Sherbourne Health Centre",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Community development * arts and recreational projects * support groups for newcomer and immigrant youth, Black youth and youth of colour, bisexual, transgender and genderqueer youth * Monday evening drop-in for homeless and street-involved youth * mentoring program * support and referrals to employment and training, settlement, health, housing * email list-serve",
     "eligibility": "Lesbian, gay, bisexual, transsexual and transgender youth 16-29 years * also youth unsure of their sexual orientation",
     "languages": [
@@ -1629,7 +1629,7 @@
       "interpreters can be arranged for other languages * American Sign Language (ASL) interpreters available for some events"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {
@@ -1684,7 +1684,7 @@
     "id": "resource-46",
     "sourceId": 46,
     "name": "YMCA of Greater Toronto",
-    "category": "SocialInsuranceNumber",
+    "category": "Employment",
     "description": "Settlement information and referral * settlement information sessions in various locations * guest speaker series * Newcomer Network * access to computers, fax, photocopiers, and phone * settlement resource library * information on topics such as immigration and citizenship, employment and job searching, access to trades and professions, credential assessment, education and training, language classes, health and housing, community, recreation and consumer resources, human rights, legal and social services, child, youth and family resources, food, shelter, and clothing Library Settlement Partnerships -- outreach program at Toronto Reference Library * settlement information and referral * Community Connections Mentorship Program (formerly HOST Program) -- group activities for newly arrived immigrants and refugees of all ages to help orient them to their new community and establish social and professional networks * trained and experienced volunteer mentors assist, with focus on citizenship and civic engagement or skills and career development Newcomer Youth Services -- youth-focused settlement information and referral * Newcomer Youth Leadership Development -- youth learn about their community, gain volunteer hours, build leadership, language, communication and social skills * workshops and activities for parents and youth",
     "eligibility": "Newcomers (landed immigrants and convention refugees) * Newcomer Youth Services -- landed immigrants and convention refugees 13-24 years",
     "languages": [
@@ -1703,7 +1703,7 @@
       "Urdu"
     ],
     "tags": [
-      "socialinsurancenumber",
+      "employment",
       "newcomer-support"
     ],
     "location": {

@@ -1,0 +1,15 @@
+<aside class="help-note">
+    <h3><%= guide.title %></h3>
+    <p>A few practical things to keep in mind:</p>
+    <ul>
+        <% guide.tips.forEach((tip) => { %>
+            <li><%= tip %></li>
+        <% }) %>
+    </ul>
+    <div class="guide-links">
+        <% guide.links.forEach((link) => { %>
+            <a href="<%= link.url %>" target="_blank" rel="noreferrer"><%= link.label %></a>
+        <% }) %>
+    </div>
+    <p class="data-reminder">Service results are from City of Toronto Open Data. Confirm current eligibility, hours, and availability with each organization.</p>
+</aside>

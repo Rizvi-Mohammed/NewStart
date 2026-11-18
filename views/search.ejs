@@ -3,51 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search | NewStart</title>
+    <title>Find Resources | NewStart</title>
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <header>
         <p class="brand"><a href="/">NewStart</a></p>
-        <h1>Search Toronto newcomer services</h1>
-        <p>Search by service, need, language, organization, or area.</p>
+        <h1>Support for your first steps in Toronto</h1>
+        <p>Find community services based on your language, needs, and area.</p>
     </header>
     <main>
-        <form class="filter-form" method="post" action="/search">
-            <label for="keyword">What service do you need?</label>
-            <input id="keyword" name="keyword" value="<%= filters.keyword || "" %>" placeholder="For example: housing, employment, Arabic" required>
-            <label for="category">Category (optional)</label>
-            <select id="category" name="category">
-                <option value="">All categories</option>
-                <% categories.forEach((category) => { %>
-                    <option value="<%= category %>" <%= filters.category === category ? "selected" : "" %>><%= category %></option>
-                <% }) %>
-            </select>
-            <label for="language">Language (optional)</label>
-            <select id="language" name="language">
-                <option value="">All languages</option>
-                <% languages.forEach((language) => { %>
-                    <option value="<%= language %>" <%= filters.language === language ? "selected" : "" %>><%= language %></option>
-                <% }) %>
-            </select>
-            <button type="submit">Search resources</button>
-        </form>
+        <p class="step-label">PERSONALIZED RESOURCE FINDER</p>
+        <h2>What can we help you find today?</h2>
 
         <% if (error) { %>
             <p class="notice"><%= error %></p>
         <% } %>
-        <% if (results) { %>
-            <h2>Search results</h2>
-            <p class="results-count"><strong><%= results.length %></strong> resource(s) found.</p>
+
+        <% if (!results) { %>
+            <form class="filter-form" method="post" action="/search">
+                <input type="hidden" name="mode" value="keyword">
+                <div class="field-wide">
+                    <label for="keyword">Already know what you need? Search by keyword</label>
+                    <input id="keyword" name="keyword" value="<%= filters.keyword || "" %>" placeholder="For example: housing, employment, Arabic">
+                </div>
+                <div class="form-actions">
+                    <button type="submit">Search</button>
+                </div>
+            </form>
+
+            <p class="step-label or-divider">OR ANSWER A FEW QUESTIONS</p>
+
+            <% const selectedLanguage = filters.language === undefined ? "English" : filters.language; %>
+            <form class="question-flow" method="post" action="/search">
+                <section class="question-bubble" data-step="1">
+                    <p class="progress">Step 1 of 4</p>
+                    <h2>Choose your preferred language</h2>
+                    <p>We will prioritize services that may support you in that language.</p>
+                    <label for="language">Language</label>
+                    <select id="language" name="language">
+                        <% [["English", "English"], ["French", "French"], ["Arabic", "Arabic"], ["", "Any language"]].forEach(([value, text]) => { %>
+                            <option value="<%= value %>" <%= selectedLanguage === value ? "selected" : "" %>><%= text %></option>
+                        <% }) %>
+                    </select>
+                </section>
+
+                <section class="question-bubble" data-step="2">
+                    <p class="progress">Step 2 of 4</p>
+                    <label for="category">What are you looking for?</label>
+                    <select id="category" name="category">
+                        <% Object.entries(guides).forEach(([key, item]) => { %>
+                            <% const value = key === "All" ? "" : key; %>
+                            <option value="<%= value %>" <%= (filters.category || "") === value ? "selected" : "" %>><%= item.label %></option>
+                        <% }) %>
+                    </select>
+                </section>
+
+                <section class="question-bubble" data-step="3">
+                    <p class="progress">Step 3 of 4</p>
+                    <label for="postalCode">Where do you live?</label>
+                    <input id="postalCode" name="postalCode" type="text" maxlength="7" placeholder="Example: M5V 2T6" value="<%= filters.postalCode || "" %>">
+                    <p class="area-hint">Enter a Toronto postal code to prioritize services in your area, or leave it blank to see all areas.</p>
+                </section>
+
+                <section class="question-bubble" data-step="4">
+                    <p class="progress">Step 4 of 4</p>
+                    <label for="ageGroup">Which option fits you best?</label>
+                    <select id="ageGroup" name="ageGroup">
+                        <% [["Youth", "Youth or student (13-24)"], ["Adult", "Adult (25+)"], ["Family", "Family or parent"]].forEach(([value, text]) => { %>
+                            <option value="<%= value %>" <%= (filters.ageGroup || "Adult") === value ? "selected" : "" %>><%= text %></option>
+                        <% }) %>
+                    </select>
+                    <button type="submit">Find Resources</button>
+                    <p class="source-note">Data source: City of Toronto Open Data, stored locally as JSON.</p>
+                </section>
+            </form>
+        <% } else { %>
+            <div class="results-heading">
+                <div>
+                    <p class="step-label">YOUR MATCHES</p>
+                    <h2>Available Resources</h2>
+                </div>
+                <a class="button-link secondary-link" href="/search">Edit selections</a>
+            </div>
+            <p id="summary"><%= results.length %> resource(s) found<%= filters.keyword ? ` for "${filters.keyword}"` : ` for ${String(filters.ageGroup || "adult").toLowerCase()} users` %><%= area ? ` in ${area}` : "" %>.</p>
+            <%- include("partials/guide", { guide }) %>
             <% if (!results.length) { %>
-                <p class="notice">No services match your search. Try another word or filter.</p>
+                <p>No matching resources found. Try another category, language, or postal code.</p>
             <% } %>
             <section class="resource-list">
                 <% results.forEach((resource) => { %>
                     <article class="resource-card">
-                        <p class="step-label"><%= resource.category %></p>
                         <h3><a href="/resources/<%= resource.id %>"><%= resource.name %></a></h3>
-                        <p><%= resource.description %></p>
+                        <div class="badges">
+                            <span class="badge"><%= resource.category %></span>
+                            <span class="badge budget-badge">Contact organization about cost</span>
+                        </div>
+                        <div class="contact-details">
+                            <p>Languages: <%= resource.languages.join(", ") || "Not available" %></p>
+                            <p>Address: <%= resource.location.address %></p>
+                            <p>Phone: <%= resource.contact.phone %></p>
+                        </div>
+                        <a class="detail-link" href="/resources/<%= resource.id %>">View service details</a>
                     </article>
                 <% }) %>
             </section>

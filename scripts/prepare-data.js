@@ -60,7 +60,7 @@ function chooseCategory(searchText) {
     const categories = [
         ["DriversLicence", ["driver", "photo id", "serviceontario"]],
         ["Taxes", ["tax", "income tax", "tax return", "cra"]],
-        ["SocialInsuranceNumber", ["social insurance number", "sin"]],
+        ["SocialInsuranceNumber", ["social insurance number"]],
         ["Employment", ["employment", "career", "job", "workplace"]],
         ["Language", ["language", "esl", "english class"]],
         ["Housing", ["housing", "shelter", "tenant"]],
