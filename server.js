@@ -119,8 +119,7 @@ function searchOptions() {
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 app.use(express.urlencoded({ extended: false }));
-app.use("/css", express.static(path.join(__dirname, "css")));
-app.use("/js", express.static(path.join(__dirname, "js")));
+app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/", (request, response) => {
     response.render("home", { resourceCount: resources.length });

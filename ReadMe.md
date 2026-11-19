@@ -1,18 +1,3 @@
-**NewStart Community Resources Website**.
-
-This version includes:
-
-- Project description and team members.
-- Dataset information and JSON structure.
-- Installation and setup instructions (`npm install` and `npm start`).
-- Complete API route table.
-- Complete EJS webpage route table.
-- Search filters and query parameters.
-- Project folder structure.
-- Error handling and commit instructions.
-
-The routes below are taken directly from the Express code you provided, rather than generic example routes.
-
 # NewStart – Community Resources Website
 
 ## 1. Project Description
@@ -81,7 +66,11 @@ The dataset contains information such as:
 - Accessibility information
 - Source update date
 
-The accompanying browser-side service discovery implementation also references City of Toronto Open Data. The original source and licensing information for the locally stored `resources.json` dataset should be confirmed and documented here.
+The data comes from the City of Toronto Open Data newcomer services dataset:
+
+`https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/datastore_search?resource_id=7298a558-16f6-4477-ada8-29a1c848aebe&limit=1000`
+
+`scripts/prepare-data.js` downloaded and cleaned this data once and saved it as `data/resources.json`. The running Express app only reads the local JSON file; it does not call the external API.
 
 ## 5. Installation and Setup
 
@@ -240,7 +229,7 @@ EJS routes render dynamic HTML pages using the templates stored in the `views` d
 | GET         | `/resources`      | `resources.ejs`       | Displays all resources and available filters.             |
 | GET         | `/resources/:id`  | `resource-detail.ejs` | Displays detailed information about a selected resource.  |
 | GET         | `/search`         | `search.ejs`          | Displays the search page.                                 |
-| POST        | `/search`         | `search.ejs`          | Processes keyword searches and displays matching results. |
+| POST        | `/search`         | `search.ejs`          | Processes keyword searches or the 4-step finder (language, category, postal code, age group) and displays matching results. |
 | GET         | Any unmatched URL | `404.ejs`             | Displays the not-found webpage.                           |
 
 #### EJS Route Details
@@ -454,32 +443,43 @@ The application includes error handling for different situations.
 
 ## 10. Project Folder Structure
 
-The expected project structure is:
+The project structure is:
 
 ```
 NewStart/
 │
-├── app.js
+├── server.js
 ├── package.json
 ├── package-lock.json
-├── README.md
+├── ReadMe.md
+├── index.html            (original Part 1 static prototype)
 │
 ├── data/
-│   └── resources.json
+│   ├── resources.json
+│   └── guides.json
+│
+├── scripts/
+│   ├── prepare-data.js
+│   └── validate-data.js
 │
 ├── views/
 │   ├── home.ejs
 │   ├── resources.ejs
 │   ├── resource-detail.ejs
 │   ├── search.ejs
-│   └── 404.ejs
+│   ├── 404.ejs
+│   └── partials/
+│       └── guide.ejs
 │
-├── css/
-│   └── style.css
+├── public/
+│   └── css/
+│       └── style.css
 │
 └── js/
-    └── script.js
+    └── script.js         (original Part 1 prototype script)
 ```
+
+Static files are served from `public/`, which works both locally and on Vercel.
 
 ## 11. Dependencies
 
@@ -499,7 +499,7 @@ The project should also have a start script in `package.json`:
 ```
 {
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.21.0",
@@ -510,31 +510,14 @@ The project should also have a start script in `package.json`:
 
 Use the actual dependency versions in your existing `package.json` if they differ.
 
-## 12. Git Commit Instructions
+## 12. Deployment (Vercel)
 
-After creating and saving the README file, execute the following commands in the VS Code terminal.
+The app is deployed with Vercel's GitHub integration:
 
-### Step 1: Add README.md
+- Every push or merge to `main` deploys to production automatically.
+- Every other branch and pull request gets its own preview URL.
 
-```
-git add README.md
-```
-
-### Step 2: Commit the changes
-
-```
-git commit -m "Add project README with setup and routes"
-```
-
-### Step 3: Push changes to GitHub
-
-```
-git push
-```
-
-**Required commit message:**
-
-`Add project README with setup and routes`
+Vercel runs `server.js` as a single function and serves files in `public/` from its CDN. `vercel.json` sets the framework to Express so Vercel builds the server instead of treating the project as a static HTML site.
 
 ## 13. Conclusion
 
@@ -543,21 +526,3 @@ NewStart provides a centralized platform for discovering community resources and
 By combining Node.js, Express.js, EJS, and JSON, the application provides both a user-friendly website and REST API endpoints for accessing community resource information.
 
 The application supports searching, filtering, and viewing community organizations to help users identify services that meet their needs.
-
-## **Important checks before submitting**
-
-1. Replace the team member placeholders with your actual names and student IDs.
-2. Confirm the original source URL for `resources.json`.
-3. Confirm that your `package.json` contains the `start` script.
-4. Make sure the EJS template filenames match your actual files.
-5. Check that all routes work before submitting.
-
-**One important technical detail:** Your API has exactly three defined GET endpoints. It does not currently implement POST, PUT, or DELETE API endpoints, so I have not included those in the route table.
-
-Your required Git commit command is:
-
-```
-git add README.md
-git commit -m "Add project README with setup and routes"
-git push
-```

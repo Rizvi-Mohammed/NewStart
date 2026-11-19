@@ -16,6 +16,9 @@
   "author": "Mohammed Abbas Rizvi and Lawrence George",
   "license": "ISC",
   "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0"
