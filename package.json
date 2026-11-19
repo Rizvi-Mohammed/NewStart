@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "prepare-data": "node scripts/prepare-data.js"
+    "prepare-data": "node scripts/prepare-data.js",
+    "validate-data": "node scripts/validate-data.js"
   },
   "keywords": [
     "express",
