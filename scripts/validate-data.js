@@ -6,16 +6,15 @@ const path = require("node:path");
 const dataPath = path.join(__dirname, "..", "data", "resources.json");
 
 // The 8 allowed categories
-// Update these names to match your actual dataset.
 const allowedCategories = [
-    "Housing",
-    "Food",
     "Employment",
-    "Education",
+    "Language",
+    "Housing",
     "Healthcare",
-    "Financial Assistance",
-    "Legal Services",
-    "Community Support"
+    "Settlement",
+    "DriversLicence",
+    "Taxes",
+    "SocialInsuranceNumber"
 ];
 
 let errors = [];
